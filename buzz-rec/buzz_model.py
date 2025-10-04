@@ -1,17 +1,15 @@
 # buzz_model.py
 """
 Train a BuzzLocator model (Linear Regression & RandomForest comparison),
-create a heuristic SurvivalScore if missing, and save the best model and preprocessor.
+create a heuristic SurvivalScore if missing, and save the best model.
 
-Streamlit Cloud compatible:
-- Saves with joblib protocol=4
-- Avoids pickling internal sklearn classes that may break on cloud
+Uses dill for serialization to avoid scikit-learn internal pickling issues on Streamlit Cloud.
 """
 
 import pandas as pd
 import numpy as np
 from pathlib import Path
-import joblib
+import dill
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
@@ -32,11 +30,8 @@ REPORT_PATH = BASE_DIR / "training_report.txt"
 assert DATA_PATH.exists(), f"CSV not found at {DATA_PATH}"
 
 # -------------------------
-# Load data
-# -------------------------
-df = pd.read_csv(DATA_PATH)
-
 # Detect columns
+# -------------------------
 def detect_cols(df):
     cols = {c.lower(): c for c in df.columns}
     def find(candidates):
@@ -61,6 +56,10 @@ def detect_cols(df):
         'numeric_cols': numeric_cols
     }
 
+# -------------------------
+# Load data
+# -------------------------
+df = pd.read_csv(DATA_PATH)
 det = detect_cols(df)
 business_col = det['business_col']
 area_col = det['area_col']
@@ -69,7 +68,7 @@ neg_cols = det['neg_cols']
 numeric_cols = det['numeric_cols']
 
 # -------------------------
-# SurvivalScore generator
+# Improved SurvivalScore generator
 # -------------------------
 def make_survival_score(df, business_col=None, area_col=None, pos_cols=None, neg_cols=None):
     pos_cols = pos_cols or []
@@ -99,7 +98,9 @@ def make_survival_score(df, business_col=None, area_col=None, pos_cols=None, neg
     score = 100 * (base_score - minv) / (maxv - minv + 1e-9)
     return score.round(2)
 
-# Check if dataset has existing target
+# -------------------------
+# Target column
+# -------------------------
 existing_target = None
 for candidate in ['SurvivalScore', 'survival_score', 'Success', 'success', 'rating', 'Score', 'score']:
     if candidate in df.columns:
@@ -114,7 +115,7 @@ else:
     df['SurvivalScore'] = y
 
 # -------------------------
-# Feature selection
+# Features
 # -------------------------
 use_numeric = [c for c in numeric_cols if c != existing_target]
 if len(use_numeric) == 0:
@@ -134,7 +135,7 @@ if X.shape[1] == 0:
     raise RuntimeError("No features available to train on.")
 
 # -------------------------
-# Preprocessing pipeline
+# Preprocessor
 # -------------------------
 num_imputer = SimpleImputer(strategy='median')
 num_scaler = StandardScaler()
@@ -152,7 +153,7 @@ preprocessor = ColumnTransformer(transformers=[
 X_p = preprocessor.fit_transform(X)
 
 # -------------------------
-# Train/test split & models
+# Train models
 # -------------------------
 X_train, X_test, y_train, y_test = train_test_split(X_p, y.values, test_size=0.2, random_state=42)
 
@@ -177,7 +178,7 @@ for name, model_instance in models.items():
         best = (name, model_instance)
 
 # -------------------------
-# Save model bundle (Streamlit Cloud compatible)
+# Save bundle with dill
 # -------------------------
 save_bundle = {
     'model_name': best[0],
@@ -188,7 +189,8 @@ save_bundle = {
     'business_col': business_col
 }
 
-joblib.dump(save_bundle, MODEL_PATH, protocol=4)  # protocol=4 fixes Streamlit Cloud pickle issue
+with open(MODEL_PATH, "wb") as f:
+    dill.dump(save_bundle, f)
 
 report_lines.append(f"Best model: {best[0]} (saved to {MODEL_PATH})")
 with open(REPORT_PATH, "w") as f:
