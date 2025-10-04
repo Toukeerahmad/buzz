@@ -1,0 +1,3 @@
+LinearRegression: R2=0.9978, MAE=0.5269
+RandomForest: R2=0.9141, MAE=3.5408
+Best model: LinearRegression (saved to buzz_model.pkl)

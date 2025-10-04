@@ -1,0 +1,1321 @@
+District,Taluk,Area,DemandProducts,Cost_of_Living,Population,Avg_Income,Competition_Index,Footfall_Potential,AvgRent2BHK,MetroAccess,CrimeReportedCitywide,CrimeDetectedCitywide,AgeGroup
+Bangalore Urban,Bangalore North,Yelahanka,"Cafe, Education, Real Estate, Electronics",35795,409088,46367,6,6139,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hebbal,"Cafe, Supermarket, Healthcare, Electronics",20860,233046,69624,4,750,22000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,RT Nagar,"Grocery, Kitchenware, Pharmacy, Clothing Store",96820,125947,25106,9,5841,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Malleshwaram,"Cafe, Clothing Store, Books, Jewellery",74886,308543,52957,3,6938,28000,Yes,12627,3603 (28.5%),35-54
+Bangalore Urban,Bangalore North,Rajajinagar,"Supermarket, Electronics, Pharmacy, Furniture",26265,148177,17472,4,2687,,No,12627,3603 (28.5%),35-54
+Bangalore Urban,Bangalore North,Sadashivanagar,"Boutique, High-end Furniture, Cafe",102386,236454,75390,7,7976,,No,12627,3603 (28.5%),35-54
+Bangalore Urban,Bangalore North,Mathikere,"Cafe, Bookstore, Fitness Center",57194,494460,64859,7,3362,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Vidyaranyapura,"Grocery, Pharmacy, Cafe",107498,129575,65956,4,1438,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Jakkur,"Education, Fitness Center, Cafe",64131,393048,21704,6,5096,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Nagavara,"IT Services, Cafe, Pharmacy",80263,227606,79315,3,5880,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Banaswadi,"Grocery, Pharmacy, Clothing Store",36023,468322,18713,6,2927,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kalyan Nagar,"Cafe, Restaurant, Fitness",61090,312822,20051,2,5332,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Horamavu,"Grocery, Electronics, Furniture",87221,96218,25756,8,2317,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hennur,"Real Estate, Cafe, Gym",84820,83230,17475,2,3639,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kothanur,"Supermarket, Restaurant, Cafe",20769,265756,51378,7,7945,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Byatarayanapura,"Clothing Store, Pharmacy, Education",79735,356199,19255,9,9329,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hegde Nagar,"Grocery, Pharmacy, Cafe",82955,469589,29484,1,4483,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Thanisandra,"Real Estate, Supermarket, Electronics",84925,182552,75167,8,3061,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sanjay Nagar,"Cafe, Bakery, Pharmacy",87969,498446,71549,7,3326,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Frazer Town,"Cafe, Bakery, Clothing Store",25311,482052,49503,6,6937,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Yelahanka Extension 1,"Cafe, Education, Real Estate, Electronics",103104,354402,73929,6,7131,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hebbal Stage 1,"Cafe, Supermarket, Healthcare, Electronics",73707,59986,23258,6,9390,22000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,RT Nagar Phase 1,"Grocery, Kitchenware, Pharmacy, Clothing Store",105305,175232,75405,9,9231,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Malleshwaram Block 1,"Cafe, Clothing Store, Books, Jewellery",48693,367739,55747,2,3816,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Rajajinagar Cross 1,"Supermarket, Electronics, Pharmacy, Furniture",91932,121358,50196,1,3514,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sadashivanagar Market 1,"Boutique, High-end Furniture, Cafe",113016,492327,60113,6,1548,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Mathikere Industrial Area 1,"Cafe, Bookstore, Fitness Center",45658,347073,55194,8,670,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Vidyaranyapura Layout 1,"Grocery, Pharmacy, Cafe",104478,93506,23533,3,3004,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Jakkur Main Road 1,"Education, Fitness Center, Cafe",38431,54911,47581,1,2605,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Nagavara Extension 2,"IT Services, Cafe, Pharmacy",22747,369271,20249,9,1017,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Banaswadi Stage 2,"Grocery, Pharmacy, Clothing Store",79150,445037,75118,1,7082,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kalyan Nagar Phase 2,"Cafe, Restaurant, Fitness",85725,226111,69443,3,7527,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Horamavu Block 2,"Grocery, Electronics, Furniture",104654,473751,34201,8,6436,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hennur Cross 2,"Real Estate, Cafe, Gym",55773,395597,75005,3,1778,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kothanur Market 2,"Supermarket, Restaurant, Cafe",87435,104458,73576,4,715,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Byatarayanapura Industrial Area 2,"Clothing Store, Pharmacy, Education",76886,32175,68026,8,7186,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hegde Nagar Layout 2,"Grocery, Pharmacy, Cafe",86803,401379,74745,1,4849,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Thanisandra Main Road 2,"Real Estate, Supermarket, Electronics",51551,336915,24686,6,3605,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sanjay Nagar Extension 3,"Cafe, Bakery, Pharmacy",31394,409301,61877,1,4629,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Frazer Town Stage 3,"Cafe, Bakery, Clothing Store",89092,141300,68363,1,1235,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Yelahanka Phase 3,"Cafe, Education, Real Estate, Electronics",23890,106925,47007,8,8666,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hebbal Block 3,"Cafe, Supermarket, Healthcare, Electronics",61606,264446,15661,4,7326,22000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,RT Nagar Cross 3,"Grocery, Kitchenware, Pharmacy, Clothing Store",116276,86358,59843,1,5262,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Malleshwaram Market 3,"Cafe, Clothing Store, Books, Jewellery",100038,430543,45137,7,306,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Rajajinagar Industrial Area 3,"Supermarket, Electronics, Pharmacy, Furniture",107313,67057,75963,5,4975,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sadashivanagar Layout 3,"Boutique, High-end Furniture, Cafe",30627,288294,62556,5,1419,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Mathikere Main Road 3,"Cafe, Bookstore, Fitness Center",28792,286569,57828,1,1241,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Vidyaranyapura Extension 4,"Grocery, Pharmacy, Cafe",93969,274726,63604,6,4727,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Jakkur Stage 4,"Education, Fitness Center, Cafe",63001,298176,25526,9,7489,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Nagavara Phase 4,"IT Services, Cafe, Pharmacy",96552,22198,18374,9,2790,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Banaswadi Block 4,"Grocery, Pharmacy, Clothing Store",43897,473716,40592,8,7423,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kalyan Nagar Cross 4,"Cafe, Restaurant, Fitness",88148,204466,43982,5,3355,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Horamavu Market 4,"Grocery, Electronics, Furniture",43483,433295,15207,1,8381,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hennur Industrial Area 4,"Real Estate, Cafe, Gym",68555,187292,50433,9,5313,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kothanur Layout 4,"Supermarket, Restaurant, Cafe",37159,455090,66645,1,4208,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Byatarayanapura Main Road 4,"Clothing Store, Pharmacy, Education",100077,164931,38197,8,3120,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hegde Nagar Extension 5,"Grocery, Pharmacy, Cafe",55920,463676,48400,5,1957,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Thanisandra Stage 5,"Real Estate, Supermarket, Electronics",112067,182491,74446,3,9096,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sanjay Nagar Phase 5,"Cafe, Bakery, Pharmacy",87121,401009,75303,7,9236,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Frazer Town Block 5,"Cafe, Bakery, Clothing Store",89479,421921,18083,7,2889,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Yelahanka Cross 5,"Cafe, Education, Real Estate, Electronics",109475,456096,44328,9,3975,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hebbal Market 5,"Cafe, Supermarket, Healthcare, Electronics",39457,280910,61479,7,7705,22000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,RT Nagar Industrial Area 5,"Grocery, Kitchenware, Pharmacy, Clothing Store",86557,43236,57891,3,9902,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Malleshwaram Layout 5,"Cafe, Clothing Store, Books, Jewellery",97189,107955,35103,1,8235,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Rajajinagar Main Road 5,"Supermarket, Electronics, Pharmacy, Furniture",98953,236586,54891,8,6155,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sadashivanagar Extension 6,"Boutique, High-end Furniture, Cafe",72995,123145,25754,3,3982,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Mathikere Stage 6,"Cafe, Bookstore, Fitness Center",60757,166430,49447,8,7275,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Vidyaranyapura Phase 6,"Grocery, Pharmacy, Cafe",29692,250785,30901,8,7229,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Jakkur Block 6,"Education, Fitness Center, Cafe",65758,114914,48004,5,5121,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Nagavara Cross 6,"IT Services, Cafe, Pharmacy",92409,385014,22446,1,4835,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Banaswadi Market 6,"Grocery, Pharmacy, Clothing Store",91211,227990,52211,7,2487,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kalyan Nagar Industrial Area 6,"Cafe, Restaurant, Fitness",85697,398387,70922,5,6682,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Horamavu Layout 6,"Grocery, Electronics, Furniture",57065,34596,63231,8,9233,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hennur Main Road 6,"Real Estate, Cafe, Gym",112093,446788,44301,9,5966,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kothanur Extension 7,"Supermarket, Restaurant, Cafe",119299,491973,41116,7,2666,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Byatarayanapura Stage 7,"Clothing Store, Pharmacy, Education",52606,152351,70251,7,1075,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hegde Nagar Phase 7,"Grocery, Pharmacy, Cafe",31534,214269,76287,1,7312,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Thanisandra Block 7,"Real Estate, Supermarket, Electronics",114663,393640,77711,4,9246,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sanjay Nagar Cross 7,"Cafe, Bakery, Pharmacy",60397,412417,56323,2,1362,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Frazer Town Market 7,"Cafe, Bakery, Clothing Store",111387,475732,33752,2,5147,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Yelahanka Industrial Area 7,"Cafe, Education, Real Estate, Electronics",21016,158155,47376,2,9235,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hebbal Layout 7,"Cafe, Supermarket, Healthcare, Electronics",109789,140674,31669,4,7482,22000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,RT Nagar Main Road 7,"Grocery, Kitchenware, Pharmacy, Clothing Store",75591,402451,47916,1,6331,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Malleshwaram Extension 8,"Cafe, Clothing Store, Books, Jewellery",109812,277529,28395,4,3427,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Rajajinagar Stage 8,"Supermarket, Electronics, Pharmacy, Furniture",43247,260469,35421,2,5730,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sadashivanagar Phase 8,"Boutique, High-end Furniture, Cafe",44300,430987,70701,5,2359,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Mathikere Block 8,"Cafe, Bookstore, Fitness Center",94065,443191,71273,3,1357,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Vidyaranyapura Cross 8,"Grocery, Pharmacy, Cafe",102798,458864,76895,8,564,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Jakkur Market 8,"Education, Fitness Center, Cafe",29268,276713,41342,4,3394,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Nagavara Industrial Area 8,"IT Services, Cafe, Pharmacy",106807,461501,19895,1,6874,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Banaswadi Layout 8,"Grocery, Pharmacy, Clothing Store",32185,39063,69432,1,7531,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kalyan Nagar Main Road 8,"Cafe, Restaurant, Fitness",83704,87642,65164,3,1330,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Horamavu Extension 9,"Grocery, Electronics, Furniture",106779,110093,26023,9,9176,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hennur Stage 9,"Real Estate, Cafe, Gym",59099,237215,25699,7,3905,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Kothanur Phase 9,"Supermarket, Restaurant, Cafe",28571,450815,24715,2,6519,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Byatarayanapura Block 9,"Clothing Store, Pharmacy, Education",58044,202992,34169,9,5850,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hegde Nagar Cross 9,"Grocery, Pharmacy, Cafe",71214,179601,74900,2,3956,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Thanisandra Market 9,"Real Estate, Supermarket, Electronics",81228,55954,67877,3,3235,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sanjay Nagar Industrial Area 9,"Cafe, Bakery, Pharmacy",68984,47856,31163,2,7053,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Frazer Town Layout 9,"Cafe, Bakery, Clothing Store",60774,22573,68728,3,9216,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Yelahanka Main Road 9,"Cafe, Education, Real Estate, Electronics",22568,491560,20782,6,6134,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Hebbal Extension 10,"Cafe, Supermarket, Healthcare, Electronics",82592,55367,37641,9,4689,22000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,RT Nagar Stage 10,"Grocery, Kitchenware, Pharmacy, Clothing Store",87563,257804,79236,9,1646,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Malleshwaram Phase 10,"Cafe, Clothing Store, Books, Jewellery",22695,381752,73945,7,6165,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Rajajinagar Block 10,"Supermarket, Electronics, Pharmacy, Furniture",68190,342918,33792,3,1194,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Sadashivanagar Cross 10,"Boutique, High-end Furniture, Cafe",25258,43752,64492,4,2511,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Mathikere Market 10,"Cafe, Bookstore, Fitness Center",107538,337173,50585,6,2717,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Vidyaranyapura Industrial Area 10,"Grocery, Pharmacy, Cafe",59504,168757,45682,5,9054,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Jakkur Layout 10,"Education, Fitness Center, Cafe",53159,412426,62864,2,4245,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore North,Nagavara Main Road 10,"IT Services, Cafe, Pharmacy",33986,333837,79456,6,2875,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Jayanagar,"Cafe, Clothing Store, Fitness Center",81858,136739,33880,3,6728,,No,12627,3603 (28.5%),35-54
+Bangalore Urban,Bangalore South,Basavanagudi,"Electronics, Grocery, Jewellery",32666,338105,70114,8,3255,,No,12627,3603 (28.5%),35-54
+Bangalore Urban,Bangalore South,Banashankari,"Supermarket, Pharmacy, Restaurant",58660,258009,77274,2,4070,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,HSR Layout,"Cafe, Bakery, Gym",23561,276028,53067,1,8072,40000,No,12627,3603 (28.5%),25-34
+Bangalore Urban,Bangalore South,Koramangala,"Cafe, Clothing Store, Pub",46854,227980,57685,9,8875,,No,12627,3603 (28.5%),25-34
+Bangalore Urban,Bangalore South,JP Nagar,"Cafe, Education, Pharmacy",84505,276609,71726,3,5515,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,BTM Layout,"Cafe, Hostels/PG, Electronics",72251,408822,33073,1,4431,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Padmanabhanagar,"Cafe, Clothing, Restaurant",42662,356676,51035,7,2042,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Uttarahalli,"Supermarket, Pharmacy, Restaurant",28392,364138,79977,5,6126,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Girinagar,"Grocery, Pharmacy, Fitness",50535,338277,52174,5,8401,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Yelachenahalli,"Grocery, Cafe, Education",98603,343412,39837,1,291,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Hulimavu,"Supermarket, Electronics, Pharmacy",72256,451459,32826,9,9195,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Arekere,"Grocery, Restaurant, Pharmacy",109135,208456,39981,7,961,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bannerghatta Road,"Real Estate, Supermarket, Education",55222,51653,25382,8,6811,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Tavarekere,"Hostels/PG, Cafe, Electronics",97373,177729,19437,9,9375,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Viveknagar,"Clothing, Cafe, Pharmacy",99575,453168,20435,6,749,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Wilson Garden,"Automotive, Hardware, Grocery",116354,435396,79612,5,4234,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Richmond Town,"Boutique, Cafe, Electronics",104651,248504,39819,6,7687,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Austin Town,"Grocery, Restaurant, Pharmacy",83335,141829,76929,2,8928,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bilekahalli,"Cafe, Bookstore, Fitness",30965,148377,51875,4,1136,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Jayanagar Extension 1,"Cafe, Clothing Store, Fitness Center",44538,491627,46982,3,4231,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Basavanagudi Stage 1,"Electronics, Grocery, Jewellery",90592,21622,48328,7,2248,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Banashankari Phase 1,"Supermarket, Pharmacy, Restaurant",118018,68756,27329,9,5557,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,HSR Layout Block 1,"Cafe, Bakery, Gym",28110,60809,75069,5,6179,40000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Koramangala Cross 1,"Cafe, Clothing Store, Pub",99309,36725,40169,6,2530,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,JP Nagar Market 1,"Cafe, Education, Pharmacy",47266,212468,36932,2,1979,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,BTM Layout Industrial Area 1,"Cafe, Hostels/PG, Electronics",72992,71226,49594,3,7642,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Padmanabhanagar Layout 1,"Cafe, Clothing, Restaurant",102948,101182,26421,3,2111,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Uttarahalli Main Road 1,"Supermarket, Pharmacy, Restaurant",118806,495781,75631,9,3473,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Girinagar Extension 2,"Grocery, Pharmacy, Fitness",26910,49402,60033,7,7457,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Yelachenahalli Stage 2,"Grocery, Cafe, Education",110982,24263,78133,8,1389,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Hulimavu Phase 2,"Supermarket, Electronics, Pharmacy",20206,247595,22629,9,1547,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Arekere Block 2,"Grocery, Restaurant, Pharmacy",107054,197900,23325,6,3299,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bannerghatta Road Cross 2,"Real Estate, Supermarket, Education",107897,67924,67290,4,6481,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Tavarekere Market 2,"Hostels/PG, Cafe, Electronics",43419,356326,43495,1,7622,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Viveknagar Industrial Area 2,"Clothing, Cafe, Pharmacy",70636,244137,46750,8,6159,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Wilson Garden Layout 2,"Automotive, Hardware, Grocery",70015,472268,44619,7,3283,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Richmond Town Main Road 2,"Boutique, Cafe, Electronics",74268,424880,55461,2,5562,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Austin Town Extension 3,"Grocery, Restaurant, Pharmacy",107939,317881,23264,8,3316,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bilekahalli Stage 3,"Cafe, Bookstore, Fitness",38141,383476,27686,5,3236,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Jayanagar Phase 3,"Cafe, Clothing Store, Fitness Center",100356,371707,61484,7,3418,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Basavanagudi Block 3,"Electronics, Grocery, Jewellery",91910,180445,39226,4,2882,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Banashankari Cross 3,"Supermarket, Pharmacy, Restaurant",76044,187469,21721,5,9282,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,HSR Layout Market 3,"Cafe, Bakery, Gym",87214,410719,71154,8,7757,40000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Koramangala Industrial Area 3,"Cafe, Clothing Store, Pub",53827,499361,35609,1,5020,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,JP Nagar Layout 3,"Cafe, Education, Pharmacy",75820,121371,67130,1,6424,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,BTM Layout Main Road 3,"Cafe, Hostels/PG, Electronics",82623,58709,79977,4,6427,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Padmanabhanagar Extension 4,"Cafe, Clothing, Restaurant",101734,212192,22373,3,8517,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Uttarahalli Stage 4,"Supermarket, Pharmacy, Restaurant",95450,170322,53675,2,876,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Girinagar Phase 4,"Grocery, Pharmacy, Fitness",113426,41172,70249,3,5308,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Yelachenahalli Block 4,"Grocery, Cafe, Education",42299,31555,63895,1,787,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Hulimavu Cross 4,"Supermarket, Electronics, Pharmacy",63585,491833,43937,1,629,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Arekere Market 4,"Grocery, Restaurant, Pharmacy",84044,73276,20656,6,5167,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bannerghatta Road Industrial Area 4,"Real Estate, Supermarket, Education",62557,77492,74329,5,8180,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Tavarekere Layout 4,"Hostels/PG, Cafe, Electronics",69080,204074,23984,8,5618,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Viveknagar Main Road 4,"Clothing, Cafe, Pharmacy",22693,276010,78740,2,2253,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Wilson Garden Extension 5,"Automotive, Hardware, Grocery",115003,371743,79309,4,9586,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Richmond Town Stage 5,"Boutique, Cafe, Electronics",115259,485571,44984,8,6194,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Austin Town Phase 5,"Grocery, Restaurant, Pharmacy",89163,242320,68411,6,7074,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bilekahalli Block 5,"Cafe, Bookstore, Fitness",45939,437978,23286,1,9818,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Jayanagar Cross 5,"Cafe, Clothing Store, Fitness Center",68925,31046,20901,4,4874,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Basavanagudi Market 5,"Electronics, Grocery, Jewellery",62941,248071,46552,1,7792,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Banashankari Industrial Area 5,"Supermarket, Pharmacy, Restaurant",41834,398165,40709,2,3203,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,HSR Layout Layout 5,"Cafe, Bakery, Gym",38047,441985,46055,5,2540,40000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Koramangala Main Road 5,"Cafe, Clothing Store, Pub",46105,204374,52685,8,4235,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,JP Nagar Extension 6,"Cafe, Education, Pharmacy",95766,436366,23429,8,7224,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,BTM Layout Stage 6,"Cafe, Hostels/PG, Electronics",35707,481463,29716,3,5301,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Padmanabhanagar Phase 6,"Cafe, Clothing, Restaurant",41976,286997,63563,4,944,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Uttarahalli Block 6,"Supermarket, Pharmacy, Restaurant",64262,140900,26138,6,546,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Girinagar Cross 6,"Grocery, Pharmacy, Fitness",43776,435008,50298,3,4015,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Yelachenahalli Market 6,"Grocery, Cafe, Education",50080,79129,66112,2,3209,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Hulimavu Industrial Area 6,"Supermarket, Electronics, Pharmacy",86842,257091,38429,6,1334,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Arekere Layout 6,"Grocery, Restaurant, Pharmacy",81373,225550,65200,5,6687,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bannerghatta Road Main Road 6,"Real Estate, Supermarket, Education",26776,264883,20772,5,326,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Tavarekere Extension 7,"Hostels/PG, Cafe, Electronics",112787,134130,63244,5,4243,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Viveknagar Stage 7,"Clothing, Cafe, Pharmacy",75016,480514,66681,5,7285,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Wilson Garden Phase 7,"Automotive, Hardware, Grocery",29474,445203,63519,3,5658,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Richmond Town Block 7,"Boutique, Cafe, Electronics",78053,166922,50732,7,286,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Austin Town Cross 7,"Grocery, Restaurant, Pharmacy",41959,425328,54905,6,2635,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bilekahalli Market 7,"Cafe, Bookstore, Fitness",25530,141789,32347,4,2032,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Jayanagar Industrial Area 7,"Cafe, Clothing Store, Fitness Center",114856,175130,31920,2,9140,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Basavanagudi Layout 7,"Electronics, Grocery, Jewellery",23748,196492,46822,9,2132,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Banashankari Main Road 7,"Supermarket, Pharmacy, Restaurant",117504,58890,61659,1,1352,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,HSR Layout Extension 8,"Cafe, Bakery, Gym",118098,86017,55108,4,5609,40000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Koramangala Stage 8,"Cafe, Clothing Store, Pub",33545,198376,78419,1,5174,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,JP Nagar Phase 8,"Cafe, Education, Pharmacy",86199,183993,38563,6,1981,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,BTM Layout Block 8,"Cafe, Hostels/PG, Electronics",54766,152596,22967,4,369,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Padmanabhanagar Cross 8,"Cafe, Clothing, Restaurant",93530,120424,60183,5,1730,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Uttarahalli Market 8,"Supermarket, Pharmacy, Restaurant",113557,297192,26871,5,4505,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Girinagar Industrial Area 8,"Grocery, Pharmacy, Fitness",81087,448327,43763,9,6239,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Yelachenahalli Layout 8,"Grocery, Cafe, Education",115839,188976,26916,1,1674,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Hulimavu Main Road 8,"Supermarket, Electronics, Pharmacy",88840,337056,23734,2,1795,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Arekere Extension 9,"Grocery, Restaurant, Pharmacy",74384,54008,48613,6,3358,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bannerghatta Road Stage 9,"Real Estate, Supermarket, Education",71005,413276,43179,5,3362,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Tavarekere Phase 9,"Hostels/PG, Cafe, Electronics",66576,225738,69929,7,1545,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Viveknagar Block 9,"Clothing, Cafe, Pharmacy",59353,103559,67188,3,6363,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Wilson Garden Cross 9,"Automotive, Hardware, Grocery",82003,75337,70099,3,8511,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Richmond Town Market 9,"Boutique, Cafe, Electronics",103211,392760,50262,2,152,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Austin Town Industrial Area 9,"Grocery, Restaurant, Pharmacy",72733,295494,27677,3,5670,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Bilekahalli Layout 9,"Cafe, Bookstore, Fitness",85318,44354,66871,1,7679,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Jayanagar Main Road 9,"Cafe, Clothing Store, Fitness Center",109474,65186,33268,5,1766,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Basavanagudi Extension 10,"Electronics, Grocery, Jewellery",43664,48145,27330,5,7001,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Banashankari Stage 10,"Supermarket, Pharmacy, Restaurant",87172,447236,35733,7,2885,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,HSR Layout Phase 10,"Cafe, Bakery, Gym",105616,106123,75545,4,819,40000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Koramangala Block 10,"Cafe, Clothing Store, Pub",113264,226258,52947,3,8697,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,JP Nagar Cross 10,"Cafe, Education, Pharmacy",46736,236541,42286,1,6955,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,BTM Layout Market 10,"Cafe, Hostels/PG, Electronics",114209,40581,21610,8,2394,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Padmanabhanagar Industrial Area 10,"Cafe, Clothing, Restaurant",20854,108929,21430,3,8363,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Uttarahalli Layout 10,"Supermarket, Pharmacy, Restaurant",110084,305195,54922,2,9521,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore South,Girinagar Main Road 10,"Grocery, Pharmacy, Fitness",58623,71474,28828,4,9859,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Indiranagar,"Cafe, Pub, Clothing Store, Bakery",27392,111748,79978,3,4582,29000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Domlur,"IT Services, Cafe, Bakery",75680,145995,57913,1,798,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,HAL,"Aerospace, IT Services, Cafeteria",66717,265690,46497,3,7343,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,CV Raman Nagar,"Education, Pharmacy, Grocery",107092,351770,54256,2,9118,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ulsoor,"Cafe, Jewellery, Clothing Store",70859,289104,68889,8,6018,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,KR Puram,"Electronics, Supermarket, Furniture",46309,448988,70677,6,448,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Whitefield,"IT Services, Apartments, Supermarkets, Cafes",107455,434736,51618,9,5474,23000,Yes,12627,3603 (28.5%),25-34
+Bangalore Urban,Bangalore East,Marathahalli,"Electronics, Hostels/PG, Restaurants",83734,200553,64841,8,7969,21000,No,12627,3603 (28.5%),25-34
+Bangalore Urban,Bangalore East,Varthur,"Real Estate, Restaurants, Education",90467,56408,61332,3,407,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Mahadevapura,"IT Parks, Electronics, Supermarket",72662,376150,41526,5,3516,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Bellandur,"Cafe, Grocery, Electronics",118506,279568,69327,7,4920,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadubeesanahalli,"IT Services, Cafe, Pharmacy",32688,339278,45158,5,3658,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Sarjapur Road,"Real Estate, Restaurants, Supermarket",45342,171563,40032,8,4578,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Brookefield,"Supermarket, Electronics, Cafes",57157,152413,52846,5,6631,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Munnekollal,"Grocery, Pharmacy, Cafe",87863,195695,74474,1,4720,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Hoodi,"IT Services, Electronics, Grocery",72083,110327,59936,5,3085,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadugodi,"Supermarket, Restaurants, Electronics",85733,413554,44794,4,8212,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Doddanekundi,"Hostels/PG, Electronics, Grocery",109045,222503,76588,6,8567,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ramamurthy Nagar,"Grocery, Pharmacy, Electronics",54698,163326,20448,3,2647,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Basavanagar,"Grocery, Cafe, Pharmacy",100623,202932,65331,5,436,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Indiranagar Extension 1,"Cafe, Pub, Clothing Store, Bakery",42671,31344,43861,2,3079,29000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Domlur Stage 1,"IT Services, Cafe, Bakery",45184,414966,43141,6,4068,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,HAL Phase 1,"Aerospace, IT Services, Cafeteria",113384,467972,24074,6,1010,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,CV Raman Nagar Block 1,"Education, Pharmacy, Grocery",62107,87957,21406,5,2096,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ulsoor Cross 1,"Cafe, Jewellery, Clothing Store",106202,125423,46823,6,3229,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,KR Puram Market 1,"Electronics, Supermarket, Furniture",71663,340197,72743,7,5547,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Whitefield Industrial Area 1,"IT Services, Apartments, Supermarkets, Cafes",35708,484071,38291,5,6229,23000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Marathahalli Layout 1,"Electronics, Hostels/PG, Restaurants",111906,166968,56568,1,5950,21000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Varthur Main Road 1,"Real Estate, Restaurants, Education",69811,206833,47003,8,4304,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Mahadevapura Extension 2,"IT Parks, Electronics, Supermarket",22811,213624,61851,4,7546,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Bellandur Stage 2,"Cafe, Grocery, Electronics",76250,271147,49406,9,8619,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadubeesanahalli Phase 2,"IT Services, Cafe, Pharmacy",92082,97454,69823,6,414,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Sarjapur Road Block 2,"Real Estate, Restaurants, Supermarket",54754,277594,38312,1,1234,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Brookefield Cross 2,"Supermarket, Electronics, Cafes",115742,372744,58108,3,4976,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Munnekollal Market 2,"Grocery, Pharmacy, Cafe",31411,404876,16382,3,8202,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Hoodi Industrial Area 2,"IT Services, Electronics, Grocery",22911,441151,49171,4,9812,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadugodi Layout 2,"Supermarket, Restaurants, Electronics",87270,57641,56779,6,8447,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Doddanekundi Main Road 2,"Hostels/PG, Electronics, Grocery",103763,49711,18292,7,5692,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ramamurthy Nagar Extension 3,"Grocery, Pharmacy, Electronics",28680,352486,56779,4,1824,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Basavanagar Stage 3,"Grocery, Cafe, Pharmacy",104896,389040,48187,6,3443,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Indiranagar Phase 3,"Cafe, Pub, Clothing Store, Bakery",103879,163254,27411,1,986,29000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Domlur Block 3,"IT Services, Cafe, Bakery",91295,107833,52285,8,821,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,HAL Cross 3,"Aerospace, IT Services, Cafeteria",108614,338420,67454,7,7778,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,CV Raman Nagar Market 3,"Education, Pharmacy, Grocery",31111,301685,72009,9,9204,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ulsoor Industrial Area 3,"Cafe, Jewellery, Clothing Store",57504,376601,30422,3,3457,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,KR Puram Layout 3,"Electronics, Supermarket, Furniture",21802,495526,57468,2,970,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Whitefield Main Road 3,"IT Services, Apartments, Supermarkets, Cafes",28155,64813,47371,1,6851,23000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Marathahalli Extension 4,"Electronics, Hostels/PG, Restaurants",93656,188270,72022,3,597,21000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Varthur Stage 4,"Real Estate, Restaurants, Education",59384,159892,20693,5,1856,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Mahadevapura Phase 4,"IT Parks, Electronics, Supermarket",67254,306214,48535,2,1217,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Bellandur Block 4,"Cafe, Grocery, Electronics",41918,482984,66196,3,2928,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadubeesanahalli Cross 4,"IT Services, Cafe, Pharmacy",105981,424338,29818,4,1747,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Sarjapur Road Market 4,"Real Estate, Restaurants, Supermarket",80713,362703,46238,7,7092,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Brookefield Industrial Area 4,"Supermarket, Electronics, Cafes",50306,224615,45874,3,6871,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Munnekollal Layout 4,"Grocery, Pharmacy, Cafe",36646,496657,41715,9,242,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Hoodi Main Road 4,"IT Services, Electronics, Grocery",66843,61786,42605,8,2861,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadugodi Extension 5,"Supermarket, Restaurants, Electronics",116601,246006,49317,4,3535,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Doddanekundi Stage 5,"Hostels/PG, Electronics, Grocery",110735,250876,46174,1,6722,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ramamurthy Nagar Phase 5,"Grocery, Pharmacy, Electronics",36371,419953,24956,1,7169,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Basavanagar Block 5,"Grocery, Cafe, Pharmacy",97371,318206,53908,1,4612,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Indiranagar Cross 5,"Cafe, Pub, Clothing Store, Bakery",22049,467453,25837,1,1948,29000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Domlur Market 5,"IT Services, Cafe, Bakery",51616,333715,18716,8,2796,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,HAL Industrial Area 5,"Aerospace, IT Services, Cafeteria",40932,307654,76949,3,1817,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,CV Raman Nagar Layout 5,"Education, Pharmacy, Grocery",49855,301570,77646,6,3172,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ulsoor Main Road 5,"Cafe, Jewellery, Clothing Store",81434,57265,19481,3,9359,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,KR Puram Extension 6,"Electronics, Supermarket, Furniture",92694,431066,78037,5,2886,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Whitefield Stage 6,"IT Services, Apartments, Supermarkets, Cafes",63016,269321,39282,7,3891,23000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Marathahalli Phase 6,"Electronics, Hostels/PG, Restaurants",27400,86150,21548,2,9580,21000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Varthur Block 6,"Real Estate, Restaurants, Education",62642,107312,66445,6,3971,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Mahadevapura Cross 6,"IT Parks, Electronics, Supermarket",35151,109613,52605,6,1906,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Bellandur Market 6,"Cafe, Grocery, Electronics",71407,357054,22758,3,1604,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadubeesanahalli Industrial Area 6,"IT Services, Cafe, Pharmacy",86690,334519,58668,6,3408,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Sarjapur Road Layout 6,"Real Estate, Restaurants, Supermarket",24499,141826,38177,5,7217,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Brookefield Main Road 6,"Supermarket, Electronics, Cafes",26295,55435,39022,2,5148,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Munnekollal Extension 7,"Grocery, Pharmacy, Cafe",79040,378587,55761,9,8363,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Hoodi Stage 7,"IT Services, Electronics, Grocery",32183,470348,70159,8,1790,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadugodi Phase 7,"Supermarket, Restaurants, Electronics",49299,230017,20542,3,9636,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Doddanekundi Block 7,"Hostels/PG, Electronics, Grocery",32874,495266,40476,8,3403,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ramamurthy Nagar Cross 7,"Grocery, Pharmacy, Electronics",52711,154055,45784,9,3213,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Basavanagar Market 7,"Grocery, Cafe, Pharmacy",25539,171734,75428,3,9174,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Indiranagar Industrial Area 7,"Cafe, Pub, Clothing Store, Bakery",73351,305654,37740,3,7950,29000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Domlur Layout 7,"IT Services, Cafe, Bakery",81267,229259,74353,2,6516,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,HAL Main Road 7,"Aerospace, IT Services, Cafeteria",68354,192070,39817,8,1604,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,CV Raman Nagar Extension 8,"Education, Pharmacy, Grocery",22557,470062,62596,1,9024,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ulsoor Stage 8,"Cafe, Jewellery, Clothing Store",58360,114071,71532,8,4024,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,KR Puram Phase 8,"Electronics, Supermarket, Furniture",102018,288784,31052,7,8715,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Whitefield Block 8,"IT Services, Apartments, Supermarkets, Cafes",22200,326691,50153,7,9883,23000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Marathahalli Cross 8,"Electronics, Hostels/PG, Restaurants",88497,336764,62076,3,4585,21000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Varthur Market 8,"Real Estate, Restaurants, Education",66975,166389,68420,1,8200,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Mahadevapura Industrial Area 8,"IT Parks, Electronics, Supermarket",41357,135608,15671,4,8784,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Bellandur Layout 8,"Cafe, Grocery, Electronics",97505,289708,15163,9,291,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadubeesanahalli Main Road 8,"IT Services, Cafe, Pharmacy",22869,178417,56424,5,8790,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Sarjapur Road Extension 9,"Real Estate, Restaurants, Supermarket",81135,133824,59002,1,5017,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Brookefield Stage 9,"Supermarket, Electronics, Cafes",70108,274444,68744,5,5931,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Munnekollal Phase 9,"Grocery, Pharmacy, Cafe",114179,99273,19795,8,9548,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Hoodi Block 9,"IT Services, Electronics, Grocery",110272,357003,25634,8,4422,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Kadugodi Cross 9,"Supermarket, Restaurants, Electronics",58467,231837,19798,5,7099,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Doddanekundi Market 9,"Hostels/PG, Electronics, Grocery",43328,130017,37420,9,9108,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ramamurthy Nagar Industrial Area 9,"Grocery, Pharmacy, Electronics",111412,487254,66507,1,7382,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Basavanagar Layout 9,"Grocery, Cafe, Pharmacy",106831,143618,70039,4,9765,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Indiranagar Main Road 9,"Cafe, Pub, Clothing Store, Bakery",23987,465609,76622,3,9378,29000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Domlur Extension 10,"IT Services, Cafe, Bakery",78871,479297,44300,2,1974,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,HAL Stage 10,"Aerospace, IT Services, Cafeteria",42399,145341,39345,8,9162,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,CV Raman Nagar Phase 10,"Education, Pharmacy, Grocery",66214,311574,25749,7,4863,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Ulsoor Block 10,"Cafe, Jewellery, Clothing Store",119522,226604,53595,9,8564,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,KR Puram Cross 10,"Electronics, Supermarket, Furniture",106416,47788,40121,2,9321,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Whitefield Market 10,"IT Services, Apartments, Supermarkets, Cafes",90271,246577,78027,4,1151,23000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Marathahalli Industrial Area 10,"Electronics, Hostels/PG, Restaurants",64064,461759,52487,6,9865,21000,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Varthur Layout 10,"Real Estate, Restaurants, Education",90091,427135,43411,3,7638,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore East,Mahadevapura Main Road 10,"IT Parks, Electronics, Supermarket",60818,351490,48361,8,7511,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar,"Cafe, Supermarket, Pharmacy, Electronics",65525,378266,36223,3,6420,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri,"Supermarket, Restaurant, Electronics, Pharmacy",39830,59974,22394,2,2205,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Satellite Town,"Grocery, Cafe, Furniture, Pharmacy",37429,389453,29056,3,407,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ideal Homes Township,"Supermarket, Pharmacy, Fitness",26893,36371,43380,6,7837,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,BHEL Layout,"Grocery, Electronics, Hardware",99909,327228,41035,2,3459,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kenchenahalli,"Grocery, Pharmacy, Cafe",67333,442845,45620,8,3276,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Nayandahalli,"Automotive, Hardware, Restaurant",23436,202256,34877,1,1351,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Deepanjali Nagar,"Grocery, Electronics, Pharmacy",94290,344060,74945,7,5466,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Attiguppe,"Cafe, Bakery, Clothing Store",96213,93972,70316,2,1617,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Chandra Layout,"Restaurant, Grocery, Pharmacy",25895,213259,79041,6,6326,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Vijayanagar,"Clothing Store, Cafe, Jewellery",39738,295128,58404,2,5405,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Hampinagar,"Electronics, Supermarket, Pharmacy",50746,315183,66824,2,9670,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,RPC Layout,"Grocery, Cafe, Fitness",69377,105431,68352,8,5969,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Magadi Road,"Hardware, Automotive, Restaurant",68404,365835,45911,2,8139,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kamakshipalya,"Industrial Supplies, Automotive, Grocery",74045,340750,47784,7,4991,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Sunkadakatte,"Supermarket, Electronics, Furniture",117888,423832,18191,3,5092,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Herohalli,"Grocery, Pharmacy, Restaurant",59790,384809,48160,8,2061,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ullal,"Grocery, Pharmacy, Cafe",25600,125373,40000,7,2963,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Moodalapalya,"Grocery, Fitness, Cafe",114660,201144,54040,8,6703,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Basaveshwaranagar,"Clothing Store, Jewellery, Cafe",113179,306718,79641,7,4667,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar Extension 1,"Cafe, Supermarket, Pharmacy, Electronics",60764,416646,64723,6,6613,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Stage 1,"Supermarket, Restaurant, Electronics, Pharmacy",94543,270195,18631,7,4105,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Satellite Town Phase 1,"Grocery, Cafe, Furniture, Pharmacy",65714,163748,21172,5,9214,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ideal Homes Township Block 1,"Supermarket, Pharmacy, Fitness",76835,424032,57080,7,283,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,BHEL Layout Cross 1,"Grocery, Electronics, Hardware",93744,52733,38561,1,7855,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kenchenahalli Market 1,"Grocery, Pharmacy, Cafe",76491,236752,39817,1,3458,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Nayandahalli Industrial Area 1,"Automotive, Hardware, Restaurant",38589,22050,35281,9,6715,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Deepanjali Nagar Layout 1,"Grocery, Electronics, Pharmacy",63484,129996,43671,5,9690,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Attiguppe Main Road 1,"Cafe, Bakery, Clothing Store",102989,53933,72275,5,6897,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Chandra Layout Extension 2,"Restaurant, Grocery, Pharmacy",56212,44951,66431,3,8828,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Vijayanagar Stage 2,"Clothing Store, Cafe, Jewellery",63525,52413,40364,5,7778,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Hampinagar Phase 2,"Electronics, Supermarket, Pharmacy",67202,185873,71603,3,5798,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,RPC Layout Block 2,"Grocery, Cafe, Fitness",52635,206691,56674,9,1373,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Magadi Road Cross 2,"Hardware, Automotive, Restaurant",83208,446129,77198,9,6753,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kamakshipalya Market 2,"Industrial Supplies, Automotive, Grocery",53828,394717,42425,6,1196,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Sunkadakatte Industrial Area 2,"Supermarket, Electronics, Furniture",38711,453816,64927,1,9597,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Herohalli Layout 2,"Grocery, Pharmacy, Restaurant",23420,208847,43602,7,9207,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ullal Main Road 2,"Grocery, Pharmacy, Cafe",116752,241888,38253,7,8102,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Moodalapalya Extension 3,"Grocery, Fitness, Cafe",20301,281044,66399,4,4347,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Basaveshwaranagar Stage 3,"Clothing Store, Jewellery, Cafe",65236,241165,38472,8,9320,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar Phase 3,"Cafe, Supermarket, Pharmacy, Electronics",86235,263662,64230,6,5414,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Block 3,"Supermarket, Restaurant, Electronics, Pharmacy",74240,186472,23080,4,3454,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Satellite Town Cross 3,"Grocery, Cafe, Furniture, Pharmacy",85726,417710,22099,4,370,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ideal Homes Township Market 3,"Supermarket, Pharmacy, Fitness",30492,231760,68078,2,1286,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,BHEL Layout Industrial Area 3,"Grocery, Electronics, Hardware",26102,142744,40431,2,6405,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kenchenahalli Layout 3,"Grocery, Pharmacy, Cafe",70336,371575,71492,4,2498,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Nayandahalli Main Road 3,"Automotive, Hardware, Restaurant",105314,225763,46186,5,7095,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Deepanjali Nagar Extension 4,"Grocery, Electronics, Pharmacy",46641,63001,62684,8,7399,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Attiguppe Stage 4,"Cafe, Bakery, Clothing Store",54584,87364,45111,6,4282,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Chandra Layout Phase 4,"Restaurant, Grocery, Pharmacy",52745,407132,54851,4,2330,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Vijayanagar Block 4,"Clothing Store, Cafe, Jewellery",43093,327172,78936,7,6611,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Hampinagar Cross 4,"Electronics, Supermarket, Pharmacy",86105,258506,37614,8,228,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,RPC Layout Market 4,"Grocery, Cafe, Fitness",71885,248731,41724,2,9561,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Magadi Road Industrial Area 4,"Hardware, Automotive, Restaurant",56631,450789,56991,7,3772,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kamakshipalya Layout 4,"Industrial Supplies, Automotive, Grocery",92991,151878,19940,2,9893,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Sunkadakatte Main Road 4,"Supermarket, Electronics, Furniture",24014,406487,67423,2,4865,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Herohalli Extension 5,"Grocery, Pharmacy, Restaurant",31093,207710,75920,8,4070,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ullal Stage 5,"Grocery, Pharmacy, Cafe",38070,148301,43758,2,7645,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Moodalapalya Phase 5,"Grocery, Fitness, Cafe",55777,408439,78530,9,5652,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Basaveshwaranagar Block 5,"Clothing Store, Jewellery, Cafe",76958,180829,51224,1,727,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar Cross 5,"Cafe, Supermarket, Pharmacy, Electronics",102074,54636,22788,9,6689,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Market 5,"Supermarket, Restaurant, Electronics, Pharmacy",30729,231169,43082,1,2144,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Satellite Town Industrial Area 5,"Grocery, Cafe, Furniture, Pharmacy",119713,199352,72751,2,2441,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ideal Homes Township Layout 5,"Supermarket, Pharmacy, Fitness",65017,306406,39034,6,5984,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,BHEL Layout Main Road 5,"Grocery, Electronics, Hardware",86320,362579,50479,6,8285,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kenchenahalli Extension 6,"Grocery, Pharmacy, Cafe",47751,213283,26280,1,349,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Nayandahalli Stage 6,"Automotive, Hardware, Restaurant",98069,468058,33052,7,3025,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Deepanjali Nagar Phase 6,"Grocery, Electronics, Pharmacy",74748,410727,31531,8,5143,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Attiguppe Block 6,"Cafe, Bakery, Clothing Store",25801,470195,37804,2,1074,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Chandra Layout Cross 6,"Restaurant, Grocery, Pharmacy",39190,265596,43903,8,9617,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Vijayanagar Market 6,"Clothing Store, Cafe, Jewellery",69689,494686,59857,9,7292,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Hampinagar Industrial Area 6,"Electronics, Supermarket, Pharmacy",70993,451413,25142,6,9275,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,RPC Layout Layout 6,"Grocery, Cafe, Fitness",49592,323988,64517,5,9180,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Magadi Road Main Road 6,"Hardware, Automotive, Restaurant",30647,346898,63355,9,2772,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kamakshipalya Extension 7,"Industrial Supplies, Automotive, Grocery",28716,447373,24866,9,7379,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Sunkadakatte Stage 7,"Supermarket, Electronics, Furniture",108891,359273,19531,1,7631,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Herohalli Phase 7,"Grocery, Pharmacy, Restaurant",107545,322186,60454,3,9618,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ullal Block 7,"Grocery, Pharmacy, Cafe",109912,81665,53098,9,8762,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Moodalapalya Cross 7,"Grocery, Fitness, Cafe",90316,266584,53278,2,2087,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Basaveshwaranagar Market 7,"Clothing Store, Jewellery, Cafe",22368,136953,74890,4,190,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar Industrial Area 7,"Cafe, Supermarket, Pharmacy, Electronics",97575,496072,79027,4,8821,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Layout 7,"Supermarket, Restaurant, Electronics, Pharmacy",26655,178448,72906,2,4159,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Satellite Town Main Road 7,"Grocery, Cafe, Furniture, Pharmacy",90031,206626,43138,3,2873,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ideal Homes Township Extension 8,"Supermarket, Pharmacy, Fitness",96429,165271,42065,3,9978,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,BHEL Layout Stage 8,"Grocery, Electronics, Hardware",111083,138533,44956,1,8483,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kenchenahalli Phase 8,"Grocery, Pharmacy, Cafe",107922,494628,56732,6,7509,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Nayandahalli Block 8,"Automotive, Hardware, Restaurant",75766,464164,54261,8,4540,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Deepanjali Nagar Cross 8,"Grocery, Electronics, Pharmacy",33403,93781,74381,3,7447,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Attiguppe Market 8,"Cafe, Bakery, Clothing Store",52097,485966,75767,5,1108,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Chandra Layout Industrial Area 8,"Restaurant, Grocery, Pharmacy",98657,86262,25759,1,3883,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Vijayanagar Layout 8,"Clothing Store, Cafe, Jewellery",30966,328744,20439,7,6746,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Hampinagar Main Road 8,"Electronics, Supermarket, Pharmacy",119157,96898,62241,1,4398,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,RPC Layout Extension 9,"Grocery, Cafe, Fitness",113848,475699,57533,9,4768,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Magadi Road Stage 9,"Hardware, Automotive, Restaurant",72921,169369,43270,8,4387,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kamakshipalya Phase 9,"Industrial Supplies, Automotive, Grocery",69726,50448,28279,7,2152,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Sunkadakatte Block 9,"Supermarket, Electronics, Furniture",70300,308316,54279,7,6109,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Herohalli Cross 9,"Grocery, Pharmacy, Restaurant",42677,456090,59251,5,1816,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ullal Market 9,"Grocery, Pharmacy, Cafe",75609,27657,38888,5,410,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Moodalapalya Industrial Area 9,"Grocery, Fitness, Cafe",116825,497602,32630,5,4638,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Basaveshwaranagar Layout 9,"Clothing Store, Jewellery, Cafe",76661,276689,76063,1,1360,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar Main Road 9,"Cafe, Supermarket, Pharmacy, Electronics",51024,438641,67991,8,4032,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Extension 10,"Supermarket, Restaurant, Electronics, Pharmacy",90313,439901,72703,1,684,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kengeri Satellite Town Stage 10,"Grocery, Cafe, Furniture, Pharmacy",73006,394999,77360,4,7716,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Ideal Homes Township Phase 10,"Supermarket, Pharmacy, Fitness",115285,437794,50144,9,8651,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,BHEL Layout Block 10,"Grocery, Electronics, Hardware",35338,179903,67161,9,2966,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Kenchenahalli Cross 10,"Grocery, Pharmacy, Cafe",88027,27906,46182,5,5998,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Nayandahalli Market 10,"Automotive, Hardware, Restaurant",112772,343557,75337,4,2111,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Deepanjali Nagar Industrial Area 10,"Grocery, Electronics, Pharmacy",100135,74028,40538,3,6351,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Attiguppe Layout 10,"Cafe, Bakery, Clothing Store",39508,289431,26824,3,5039,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Bangalore West,Chandra Layout Main Road 10,"Restaurant, Grocery, Pharmacy",23051,315804,65979,5,4106,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya,"Industrial Supplies, Machinery, Hardware",68747,488974,47125,1,1725,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli,"Supermarket, Pharmacy, Restaurants",107142,342648,21979,5,990,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Bagalagunte,"Grocery, Pharmacy, Electronics",107235,210792,41189,6,6178,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hesaraghatta,"Dairy, Agriculture, Nurseries",74021,122979,57600,7,7136,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chikkabanavara,"Grocery, Pharmacy, Restaurant",86412,54701,74560,9,9023,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,T Dasarahalli,"Supermarket, Electronics, Furniture",78335,103300,27504,3,4061,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thammenahalli,"Agriculture, Nurseries, Hardware",76179,261249,72721,2,2604,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Mallasandra,"Grocery, Automotive, Pharmacy",52093,168746,76558,3,8906,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Abbigere,"Grocery, Pharmacy, Cafe",89678,103560,35669,9,3906,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Laggere,"Hardware, Automotive, Grocery",100738,262615,21910,7,6200,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Nagasandra,"Furniture, Electronics, Supermarket",59734,437090,72713,9,1819,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Dasarahalli,"Supermarket, Pharmacy, Restaurant",92615,63642,61857,2,6786,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hegganahalli,"Hardware, Automotive, Grocery",93523,347304,49964,5,1687,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Tavarekere (West),"Agriculture, Nurseries, Grocery",114476,299746,35131,4,7100,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thotadaguddadahalli,"Agriculture, Nurseries, Grocery",37019,385464,40227,2,9903,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Industrial Area,"Industrial Supplies, Machinery, Engineering Services",103613,108801,20978,9,996,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Vidyaranyapura (West),"Grocery, Pharmacy, Cafe",111794,308075,36991,9,5658,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Cross,"Automotive, Restaurant, Grocery",106672,114377,32153,6,8569,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Soundarya Layout,"Grocery, Pharmacy, Cafe",93847,311336,74765,6,4747,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chokkasandra,"Hardware, Automotive, Grocery",102750,328686,48548,8,9928,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Extension 1,"Industrial Supplies, Machinery, Hardware",99634,409159,57676,6,2532,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Stage 1,"Supermarket, Pharmacy, Restaurants",48251,324664,54071,1,4004,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Bagalagunte Phase 1,"Grocery, Pharmacy, Electronics",45945,346916,62454,4,6937,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hesaraghatta Block 1,"Dairy, Agriculture, Nurseries",110852,471978,18983,7,1549,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chikkabanavara Cross 1,"Grocery, Pharmacy, Restaurant",52217,332250,24503,2,4600,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,T Dasarahalli Market 1,"Supermarket, Electronics, Furniture",28308,101121,75703,9,5554,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thammenahalli Industrial Area 1,"Agriculture, Nurseries, Hardware",25949,45559,79379,8,9524,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Mallasandra Layout 1,"Grocery, Automotive, Pharmacy",71990,387739,44921,8,4217,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Abbigere Main Road 1,"Grocery, Pharmacy, Cafe",21150,53742,72866,7,8969,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Laggere Extension 2,"Hardware, Automotive, Grocery",109480,351813,31905,4,2128,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Nagasandra Stage 2,"Furniture, Electronics, Supermarket",94740,493415,60838,2,6945,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Dasarahalli Phase 2,"Supermarket, Pharmacy, Restaurant",86617,172826,74664,3,3858,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hegganahalli Block 2,"Hardware, Automotive, Grocery",114841,155044,73279,6,6004,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Tavarekere (West) Cross 2,"Agriculture, Nurseries, Grocery",36896,352975,38953,5,4724,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thotadaguddadahalli Market 2,"Agriculture, Nurseries, Grocery",66175,132217,41806,8,8948,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Industrial Area Industrial Area 2,"Industrial Supplies, Machinery, Engineering Services",27805,61873,60000,6,265,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Vidyaranyapura (West) Layout 2,"Grocery, Pharmacy, Cafe",25237,388676,37168,6,4691,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Cross Main Road 2,"Automotive, Restaurant, Grocery",40056,408411,19583,1,689,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Soundarya Layout Extension 3,"Grocery, Pharmacy, Cafe",65543,423119,53714,4,4624,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chokkasandra Stage 3,"Hardware, Automotive, Grocery",76556,154092,69093,5,2921,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Phase 3,"Industrial Supplies, Machinery, Hardware",23343,323899,70419,3,6609,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Block 3,"Supermarket, Pharmacy, Restaurants",33500,368100,64145,9,7793,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Bagalagunte Cross 3,"Grocery, Pharmacy, Electronics",73222,106988,54896,1,9554,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hesaraghatta Market 3,"Dairy, Agriculture, Nurseries",49375,65648,26889,6,171,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chikkabanavara Industrial Area 3,"Grocery, Pharmacy, Restaurant",29662,145991,42413,6,3680,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,T Dasarahalli Layout 3,"Supermarket, Electronics, Furniture",36964,422732,27275,5,8062,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thammenahalli Main Road 3,"Agriculture, Nurseries, Hardware",79638,397149,17461,5,368,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Mallasandra Extension 4,"Grocery, Automotive, Pharmacy",93666,22396,29291,5,2562,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Abbigere Stage 4,"Grocery, Pharmacy, Cafe",105067,104082,61804,6,9560,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Laggere Phase 4,"Hardware, Automotive, Grocery",87215,432345,26435,8,1115,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Nagasandra Block 4,"Furniture, Electronics, Supermarket",89042,148322,42935,2,9375,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Dasarahalli Cross 4,"Supermarket, Pharmacy, Restaurant",33284,152663,79946,6,8084,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hegganahalli Market 4,"Hardware, Automotive, Grocery",92789,31303,48453,1,506,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Tavarekere (West) Industrial Area 4,"Agriculture, Nurseries, Grocery",104664,181633,33544,4,7484,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thotadaguddadahalli Layout 4,"Agriculture, Nurseries, Grocery",113468,353863,71183,3,6149,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Industrial Area Main Road 4,"Industrial Supplies, Machinery, Engineering Services",81389,269690,76332,9,6269,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Vidyaranyapura (West) Extension 5,"Grocery, Pharmacy, Cafe",29435,279820,27258,3,8082,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Cross Stage 5,"Automotive, Restaurant, Grocery",74340,119616,45841,6,1085,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Soundarya Layout Phase 5,"Grocery, Pharmacy, Cafe",64078,406309,73911,1,4585,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chokkasandra Block 5,"Hardware, Automotive, Grocery",98832,106231,69493,6,9001,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Cross 5,"Industrial Supplies, Machinery, Hardware",71293,289458,63758,4,2718,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Market 5,"Supermarket, Pharmacy, Restaurants",115981,39623,64190,8,6389,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Bagalagunte Industrial Area 5,"Grocery, Pharmacy, Electronics",98781,218747,25736,9,9703,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hesaraghatta Layout 5,"Dairy, Agriculture, Nurseries",80403,478298,52643,4,7028,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chikkabanavara Main Road 5,"Grocery, Pharmacy, Restaurant",49124,496840,65408,6,5468,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,T Dasarahalli Extension 6,"Supermarket, Electronics, Furniture",115435,125228,58950,1,4721,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thammenahalli Stage 6,"Agriculture, Nurseries, Hardware",63919,446346,71849,4,9777,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Mallasandra Phase 6,"Grocery, Automotive, Pharmacy",55247,202828,49964,7,7666,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Abbigere Block 6,"Grocery, Pharmacy, Cafe",114758,379768,43044,1,4770,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Laggere Cross 6,"Hardware, Automotive, Grocery",111747,177364,54933,8,7758,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Nagasandra Market 6,"Furniture, Electronics, Supermarket",82752,393929,75052,6,1103,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Dasarahalli Industrial Area 6,"Supermarket, Pharmacy, Restaurant",76573,368350,30997,5,7604,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hegganahalli Layout 6,"Hardware, Automotive, Grocery",79101,89274,29215,9,2566,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Tavarekere (West) Main Road 6,"Agriculture, Nurseries, Grocery",46646,153541,48069,2,2039,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thotadaguddadahalli Extension 7,"Agriculture, Nurseries, Grocery",43049,73947,38911,5,1735,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Industrial Area Stage 7,"Industrial Supplies, Machinery, Engineering Services",99605,173606,70533,6,9990,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Vidyaranyapura (West) Phase 7,"Grocery, Pharmacy, Cafe",118116,214692,32030,7,8195,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Cross Block 7,"Automotive, Restaurant, Grocery",117379,68874,44334,5,6365,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Soundarya Layout Cross 7,"Grocery, Pharmacy, Cafe",88385,69708,29571,9,1995,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chokkasandra Market 7,"Hardware, Automotive, Grocery",60158,94553,57719,1,6624,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Industrial Area 7,"Industrial Supplies, Machinery, Hardware",85417,88344,78690,7,1173,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Layout 7,"Supermarket, Pharmacy, Restaurants",43289,331282,43927,7,5284,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Bagalagunte Main Road 7,"Grocery, Pharmacy, Electronics",29823,205374,72941,4,2502,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hesaraghatta Extension 8,"Dairy, Agriculture, Nurseries",80160,67638,73005,9,4995,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chikkabanavara Stage 8,"Grocery, Pharmacy, Restaurant",61975,98249,35714,5,7431,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,T Dasarahalli Phase 8,"Supermarket, Electronics, Furniture",29540,388009,73712,4,9443,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thammenahalli Block 8,"Agriculture, Nurseries, Hardware",36364,22719,58541,7,2056,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Mallasandra Cross 8,"Grocery, Automotive, Pharmacy",24611,173962,38387,4,7123,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Abbigere Market 8,"Grocery, Pharmacy, Cafe",47663,490452,43444,3,4007,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Laggere Industrial Area 8,"Hardware, Automotive, Grocery",71991,449725,63908,9,907,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Nagasandra Layout 8,"Furniture, Electronics, Supermarket",77679,62534,34921,8,8478,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Dasarahalli Main Road 8,"Supermarket, Pharmacy, Restaurant",50977,112241,28057,1,4927,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hegganahalli Extension 9,"Hardware, Automotive, Grocery",114704,432003,79028,7,4624,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Tavarekere (West) Stage 9,"Agriculture, Nurseries, Grocery",69115,146209,60268,9,9599,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thotadaguddadahalli Phase 9,"Agriculture, Nurseries, Grocery",111007,462061,68710,8,2384,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Industrial Area Block 9,"Industrial Supplies, Machinery, Engineering Services",108223,209004,70731,8,5413,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Vidyaranyapura (West) Cross 9,"Grocery, Pharmacy, Cafe",80890,112124,39858,6,857,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Cross Market 9,"Automotive, Restaurant, Grocery",86387,111659,63689,4,4987,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Soundarya Layout Industrial Area 9,"Grocery, Pharmacy, Cafe",38071,184134,59638,8,3954,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chokkasandra Layout 9,"Hardware, Automotive, Grocery",79275,95713,41062,3,3658,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Peenya Main Road 9,"Industrial Supplies, Machinery, Hardware",92369,238335,51850,9,9872,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Jalahalli Extension 10,"Supermarket, Pharmacy, Restaurants",31938,473677,61486,2,1061,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Bagalagunte Stage 10,"Grocery, Pharmacy, Electronics",55195,95418,35567,2,3947,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Hesaraghatta Phase 10,"Dairy, Agriculture, Nurseries",111680,479888,44739,7,6826,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Chikkabanavara Block 10,"Grocery, Pharmacy, Restaurant",24000,148232,72804,4,3675,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,T Dasarahalli Cross 10,"Supermarket, Electronics, Furniture",90588,448048,58285,8,9167,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Thammenahalli Market 10,"Agriculture, Nurseries, Hardware",113610,183038,18754,9,2518,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Mallasandra Industrial Area 10,"Grocery, Automotive, Pharmacy",117856,485761,42044,7,4298,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Abbigere Layout 10,"Grocery, Pharmacy, Cafe",58304,426203,16724,5,1101,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Dasarahalli,Laggere Main Road 10,"Hardware, Automotive, Grocery",89449,188383,16376,8,5344,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka New Town,"Real Estate, Supermarket, Cafes",102986,313719,75087,4,7219,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Attur Layout,"Cafe, Restaurants, Furniture",109643,345996,23706,2,4166,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Allalasandra,"Grocery, Pharmacy, Cafe",40764,278722,23894,6,2945,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Puttenahalli (Yelahanka),"Supermarket, Clothing, Pharmacy",106027,152079,33037,9,9773,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Judicial Layout,"Boutique, Real Estate, Cafe",58494,222053,33450,1,8949,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Singanayakanahalli,"Agriculture, Nurseries, Grocery",23373,96242,31406,7,5416,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Jakkur (Yelahanka),"Education, Cafe, Fitness Center",32161,198589,66612,9,522,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kogilu,"Real Estate, Supermarket, Electronics",117532,49257,44725,9,6815,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Bagalur,"Agriculture, Warehousing, Grocery",112658,455423,20926,3,4366,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Vidyaranyapura (Yelahanka),"Grocery, Pharmacy, Cafe",47350,164353,54019,5,7649,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Byatarayanapura (Yelahanka),"Clothing Store, Pharmacy, Education",113008,343390,79878,8,6416,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Old Town,"Grocery, Pharmacy, Restaurants",114297,283579,24496,8,2810,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Somashettihalli,"Grocery, Pharmacy, Cafe",45351,249947,71447,4,8744,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Air Force Station,"Cafeteria, Groceries, Pharmacy",108668,251758,51068,1,8169,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,CRPF Campus Yelahanka,"Cafeteria, Groceries, Pharmacy",35305,111357,44806,1,1757,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Doddajala,"Real Estate, Hotels, Restaurants",95353,177732,37663,4,2641,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Chikkajala,"Real Estate, Hotels, Restaurants",96797,418300,56321,6,6863,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kattigenahalli,"Grocery, Pharmacy, Cafe",85953,495413,71505,8,3175,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka NES,"Supermarket, Electronics, Restaurant",77458,426723,51495,6,3264,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Agrahara (Yelahanka),"Grocery, Pharmacy, Cafe",40358,223667,37656,9,2153,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka New Town Extension 1,"Real Estate, Supermarket, Cafes",23267,103807,70147,9,8579,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Attur Layout Stage 1,"Cafe, Restaurants, Furniture",102745,458755,40860,2,5837,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Allalasandra Phase 1,"Grocery, Pharmacy, Cafe",109588,398097,64666,1,3317,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Puttenahalli (Yelahanka) Block 1,"Supermarket, Clothing, Pharmacy",58513,158563,31832,2,1547,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Judicial Layout Cross 1,"Boutique, Real Estate, Cafe",46092,278778,53787,5,6109,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Singanayakanahalli Market 1,"Agriculture, Nurseries, Grocery",31338,201264,63231,4,707,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Jakkur (Yelahanka) Industrial Area 1,"Education, Cafe, Fitness Center",20412,493611,77946,4,4652,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kogilu Layout 1,"Real Estate, Supermarket, Electronics",27543,405941,36727,9,1864,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Bagalur Main Road 1,"Agriculture, Warehousing, Grocery",53496,346032,57815,8,9517,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Vidyaranyapura (Yelahanka) Extension 2,"Grocery, Pharmacy, Cafe",80692,93609,44545,6,9527,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Byatarayanapura (Yelahanka) Stage 2,"Clothing Store, Pharmacy, Education",109084,291221,72185,1,9321,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Old Town Phase 2,"Grocery, Pharmacy, Restaurants",112920,268512,59522,2,2771,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Somashettihalli Block 2,"Grocery, Pharmacy, Cafe",64425,273973,17520,6,6619,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Air Force Station Cross 2,"Cafeteria, Groceries, Pharmacy",58756,303097,18081,2,4062,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,CRPF Campus Yelahanka Market 2,"Cafeteria, Groceries, Pharmacy",38888,490135,49196,5,3277,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Doddajala Industrial Area 2,"Real Estate, Hotels, Restaurants",55735,396826,51735,5,3822,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Chikkajala Layout 2,"Real Estate, Hotels, Restaurants",67295,350033,54213,6,5006,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kattigenahalli Main Road 2,"Grocery, Pharmacy, Cafe",103042,174893,29566,6,7363,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka NES Extension 3,"Supermarket, Electronics, Restaurant",105999,450783,29042,6,5154,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Agrahara (Yelahanka) Stage 3,"Grocery, Pharmacy, Cafe",37955,135374,40498,2,9767,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka New Town Phase 3,"Real Estate, Supermarket, Cafes",57841,44860,26329,3,908,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Attur Layout Block 3,"Cafe, Restaurants, Furniture",90640,172267,46656,6,9270,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Allalasandra Cross 3,"Grocery, Pharmacy, Cafe",85510,97475,17159,8,825,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Puttenahalli (Yelahanka) Market 3,"Supermarket, Clothing, Pharmacy",54911,369410,52900,1,7801,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Judicial Layout Industrial Area 3,"Boutique, Real Estate, Cafe",79031,172499,77856,1,1316,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Singanayakanahalli Layout 3,"Agriculture, Nurseries, Grocery",108726,382876,66699,2,4151,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Jakkur (Yelahanka) Main Road 3,"Education, Cafe, Fitness Center",27357,309227,34363,6,2297,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kogilu Extension 4,"Real Estate, Supermarket, Electronics",52479,238118,62701,9,2906,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Bagalur Stage 4,"Agriculture, Warehousing, Grocery",81476,339516,58241,4,9070,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Vidyaranyapura (Yelahanka) Phase 4,"Grocery, Pharmacy, Cafe",64811,143786,34033,3,1072,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Byatarayanapura (Yelahanka) Block 4,"Clothing Store, Pharmacy, Education",56208,457280,72657,8,5734,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Old Town Cross 4,"Grocery, Pharmacy, Restaurants",40150,27813,25805,9,7583,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Somashettihalli Market 4,"Grocery, Pharmacy, Cafe",91180,51598,50851,5,2223,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Air Force Station Industrial Area 4,"Cafeteria, Groceries, Pharmacy",63286,277951,41832,9,8890,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,CRPF Campus Yelahanka Layout 4,"Cafeteria, Groceries, Pharmacy",88450,113106,78437,2,324,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Doddajala Main Road 4,"Real Estate, Hotels, Restaurants",41352,309226,65189,3,9132,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Chikkajala Extension 5,"Real Estate, Hotels, Restaurants",75069,311385,28944,7,1914,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kattigenahalli Stage 5,"Grocery, Pharmacy, Cafe",34397,247286,34873,7,1206,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka NES Phase 5,"Supermarket, Electronics, Restaurant",61555,457785,55372,6,224,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Agrahara (Yelahanka) Block 5,"Grocery, Pharmacy, Cafe",66959,31745,38928,6,3346,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka New Town Cross 5,"Real Estate, Supermarket, Cafes",20728,308173,30379,2,3031,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Attur Layout Market 5,"Cafe, Restaurants, Furniture",70517,164097,66786,6,3071,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Allalasandra Industrial Area 5,"Grocery, Pharmacy, Cafe",86234,252732,51751,4,2117,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Puttenahalli (Yelahanka) Layout 5,"Supermarket, Clothing, Pharmacy",59954,405539,49546,3,7515,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Judicial Layout Main Road 5,"Boutique, Real Estate, Cafe",67280,165360,39286,2,2515,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Singanayakanahalli Extension 6,"Agriculture, Nurseries, Grocery",99459,109186,20110,1,3196,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Jakkur (Yelahanka) Stage 6,"Education, Cafe, Fitness Center",36779,419756,69341,5,1709,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kogilu Phase 6,"Real Estate, Supermarket, Electronics",83932,379912,27087,2,817,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Bagalur Block 6,"Agriculture, Warehousing, Grocery",92936,233030,38762,2,3661,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Vidyaranyapura (Yelahanka) Cross 6,"Grocery, Pharmacy, Cafe",44466,219950,65276,7,9308,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Byatarayanapura (Yelahanka) Market 6,"Clothing Store, Pharmacy, Education",56939,61846,32081,8,6882,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Old Town Industrial Area 6,"Grocery, Pharmacy, Restaurants",89896,358076,49947,8,1148,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Somashettihalli Layout 6,"Grocery, Pharmacy, Cafe",55270,168554,24596,4,9649,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Air Force Station Main Road 6,"Cafeteria, Groceries, Pharmacy",79163,305555,53019,1,8407,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,CRPF Campus Yelahanka Extension 7,"Cafeteria, Groceries, Pharmacy",102637,464191,57003,7,8005,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Doddajala Stage 7,"Real Estate, Hotels, Restaurants",71934,473761,33313,1,5678,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Chikkajala Phase 7,"Real Estate, Hotels, Restaurants",84895,360941,62639,4,1720,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kattigenahalli Block 7,"Grocery, Pharmacy, Cafe",52307,334451,16013,8,6648,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka NES Cross 7,"Supermarket, Electronics, Restaurant",74098,416309,64378,2,7481,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Agrahara (Yelahanka) Market 7,"Grocery, Pharmacy, Cafe",80921,490474,38705,6,4880,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka New Town Industrial Area 7,"Real Estate, Supermarket, Cafes",25486,304186,16828,6,3892,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Attur Layout Layout 7,"Cafe, Restaurants, Furniture",28335,72930,22909,9,3041,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Allalasandra Main Road 7,"Grocery, Pharmacy, Cafe",106900,268656,53356,5,5795,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Puttenahalli (Yelahanka) Extension 8,"Supermarket, Clothing, Pharmacy",109112,457629,28109,4,6501,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Judicial Layout Stage 8,"Boutique, Real Estate, Cafe",117203,264459,17023,5,9269,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Singanayakanahalli Phase 8,"Agriculture, Nurseries, Grocery",31130,244695,69118,5,6297,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Jakkur (Yelahanka) Block 8,"Education, Cafe, Fitness Center",107508,380027,74796,8,5550,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kogilu Cross 8,"Real Estate, Supermarket, Electronics",80566,315900,29537,8,9075,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Bagalur Market 8,"Agriculture, Warehousing, Grocery",86703,73268,41661,2,8532,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Vidyaranyapura (Yelahanka) Industrial Area 8,"Grocery, Pharmacy, Cafe",47192,452430,79429,7,5974,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Byatarayanapura (Yelahanka) Layout 8,"Clothing Store, Pharmacy, Education",21062,232943,53659,8,1653,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Old Town Main Road 8,"Grocery, Pharmacy, Restaurants",104076,278916,76627,6,1112,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Somashettihalli Extension 9,"Grocery, Pharmacy, Cafe",109780,441818,48848,5,8478,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka Air Force Station Stage 9,"Cafeteria, Groceries, Pharmacy",41545,204403,52804,9,1981,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,CRPF Campus Yelahanka Phase 9,"Cafeteria, Groceries, Pharmacy",41689,68901,30379,3,6899,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Doddajala Block 9,"Real Estate, Hotels, Restaurants",31174,382130,74664,4,4686,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Chikkajala Cross 9,"Real Estate, Hotels, Restaurants",108461,214488,42766,9,8722,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kattigenahalli Market 9,"Grocery, Pharmacy, Cafe",29348,183268,58590,6,8530,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka NES Industrial Area 9,"Supermarket, Electronics, Restaurant",43714,410530,17563,8,6547,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Agrahara (Yelahanka) Layout 9,"Grocery, Pharmacy, Cafe",58102,287770,51060,7,2445,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Yelahanka New Town Main Road 9,"Real Estate, Supermarket, Cafes",94460,158496,44197,2,175,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Attur Layout Extension 10,"Cafe, Restaurants, Furniture",109930,295001,18586,3,9648,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Allalasandra Stage 10,"Grocery, Pharmacy, Cafe",26801,261531,31087,1,5977,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Puttenahalli (Yelahanka) Phase 10,"Supermarket, Clothing, Pharmacy",92267,266693,63868,9,6885,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Judicial Layout Block 10,"Boutique, Real Estate, Cafe",68136,433198,68583,7,5022,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Singanayakanahalli Cross 10,"Agriculture, Nurseries, Grocery",43625,490177,38225,1,8190,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Jakkur (Yelahanka) Market 10,"Education, Cafe, Fitness Center",102873,415196,44750,3,2430,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Kogilu Industrial Area 10,"Real Estate, Supermarket, Electronics",92592,199362,21643,4,4786,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Bagalur Layout 10,"Agriculture, Warehousing, Grocery",97052,46431,42523,4,2002,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Yelahanka,Vidyaranyapura (Yelahanka) Main Road 10,"Grocery, Pharmacy, Cafe",64261,367120,51727,5,4770,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Anekal Town,"Silk Sarees, Furniture, Restaurants",21542,258360,26005,3,7243,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Attibele,"Industrial Supplies, Warehousing, Restaurants",41677,364855,58543,3,2159,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Electronic City,"IT Parks, Restaurants, Clothing",66732,46385,15161,1,240,,No,12627,3603 (28.5%),25-34
+Bangalore Urban,Anekal,Chandapura,"Industrial Supplies, Grocery, Electronics",70343,451374,31029,7,1889,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Jigani,"Industrial Supplies, Hardware, Restaurants",59081,436235,64745,1,116,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Huskur,"Grocery, Pharmacy, Restaurants",82856,300783,29226,2,564,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Begur,"Real Estate, Restaurants, Supermarket",113105,105530,78646,4,4571,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Hulimangala,"Grocery, Pharmacy, Restaurants",108858,250983,75603,4,1927,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Heelalige,"Warehousing, Grocery, Restaurants",39065,303707,43731,5,8811,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bannerghatta,"Resorts, Wildlife Tourism, Restaurants",103460,452557,58922,2,6056,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bommasandra,"Industrial Supplies, Electronics, Grocery",108092,397816,59848,4,189,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harapanahalli (Anekal),"Grocery, Pharmacy, Restaurants",74693,418992,18390,1,4915,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Yamare,"Agriculture, Nurseries, Grocery",46962,449660,20997,2,2951,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Muthanallur,"Real Estate, Grocery, Restaurants",48295,482132,70506,1,2943,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Sarjapur (Anekal),"Real Estate, Restaurants, Supermarket",33807,421927,27693,4,9217,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kasavanahalli,"Restaurants, Supermarket, Clothing",62348,225390,64815,4,6643,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harlur,"Real Estate, Restaurants, Supermarket",46432,365114,57092,7,6001,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kodathi,"Real Estate, Grocery, Restaurants",103285,263373,77539,9,1069,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Dommasandra,"Restaurants, Grocery, Pharmacy",111792,367697,15541,9,1194,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Basapura,"Electronics, Restaurants, Grocery",77854,181779,36817,5,6224,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Anekal Town Extension 1,"Silk Sarees, Furniture, Restaurants",60262,190182,52861,1,7447,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Attibele Stage 1,"Industrial Supplies, Warehousing, Restaurants",57080,212860,28428,1,3295,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Electronic City Phase 1,"IT Parks, Restaurants, Clothing",21324,102879,58934,6,1504,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Chandapura Block 1,"Industrial Supplies, Grocery, Electronics",111267,452043,65019,2,7040,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Jigani Cross 1,"Industrial Supplies, Hardware, Restaurants",55909,258260,63831,8,4390,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Huskur Market 1,"Grocery, Pharmacy, Restaurants",109339,418871,25258,9,4082,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Begur Industrial Area 1,"Real Estate, Restaurants, Supermarket",39870,327003,72775,4,5655,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Hulimangala Layout 1,"Grocery, Pharmacy, Restaurants",54578,466841,31044,5,8054,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Heelalige Main Road 1,"Warehousing, Grocery, Restaurants",92124,334242,44411,8,4813,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bannerghatta Extension 2,"Resorts, Wildlife Tourism, Restaurants",46790,166323,20469,3,3192,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bommasandra Stage 2,"Industrial Supplies, Electronics, Grocery",45289,142413,43854,5,4259,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harapanahalli (Anekal) Phase 2,"Grocery, Pharmacy, Restaurants",75129,282670,21256,3,6408,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Yamare Block 2,"Agriculture, Nurseries, Grocery",113714,350904,73550,3,7578,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Muthanallur Cross 2,"Real Estate, Grocery, Restaurants",114246,67837,25720,3,8576,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Sarjapur (Anekal) Market 2,"Real Estate, Restaurants, Supermarket",35485,280550,48937,7,5033,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kasavanahalli Industrial Area 2,"Restaurants, Supermarket, Clothing",64482,293680,48598,7,5026,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harlur Layout 2,"Real Estate, Restaurants, Supermarket",106188,48541,16651,7,9479,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kodathi Main Road 2,"Real Estate, Grocery, Restaurants",24748,99083,65288,8,4069,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Dommasandra Extension 3,"Restaurants, Grocery, Pharmacy",106769,464243,34194,5,3065,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Basapura Stage 3,"Electronics, Restaurants, Grocery",29435,54531,40051,5,4419,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Anekal Town Phase 3,"Silk Sarees, Furniture, Restaurants",23709,290856,42386,4,9075,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Attibele Block 3,"Industrial Supplies, Warehousing, Restaurants",50355,386245,24518,7,7208,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Electronic City Cross 3,"IT Parks, Restaurants, Clothing",75771,347599,61026,4,9241,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Chandapura Market 3,"Industrial Supplies, Grocery, Electronics",77799,94744,31184,2,4039,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Jigani Industrial Area 3,"Industrial Supplies, Hardware, Restaurants",33116,272859,48787,4,144,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Huskur Layout 3,"Grocery, Pharmacy, Restaurants",45470,149749,36621,8,1910,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Begur Main Road 3,"Real Estate, Restaurants, Supermarket",62344,287253,25028,9,4666,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Hulimangala Extension 4,"Grocery, Pharmacy, Restaurants",62918,331412,27448,3,9121,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Heelalige Stage 4,"Warehousing, Grocery, Restaurants",72224,251809,74792,7,2009,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bannerghatta Phase 4,"Resorts, Wildlife Tourism, Restaurants",59298,336759,60253,9,6464,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bommasandra Block 4,"Industrial Supplies, Electronics, Grocery",100219,102503,49051,4,2681,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harapanahalli (Anekal) Cross 4,"Grocery, Pharmacy, Restaurants",81629,274346,64811,3,791,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Yamare Market 4,"Agriculture, Nurseries, Grocery",86040,442975,45447,5,1031,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Muthanallur Industrial Area 4,"Real Estate, Grocery, Restaurants",119518,105708,77510,1,8010,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Sarjapur (Anekal) Layout 4,"Real Estate, Restaurants, Supermarket",119835,211184,33394,3,6482,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kasavanahalli Main Road 4,"Restaurants, Supermarket, Clothing",48016,122471,72742,8,3506,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harlur Extension 5,"Real Estate, Restaurants, Supermarket",43960,274225,49501,8,8439,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kodathi Stage 5,"Real Estate, Grocery, Restaurants",53591,177661,45254,4,1132,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Dommasandra Phase 5,"Restaurants, Grocery, Pharmacy",102848,181087,33509,2,1411,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Basapura Block 5,"Electronics, Restaurants, Grocery",87641,180081,66323,8,8679,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Anekal Town Cross 5,"Silk Sarees, Furniture, Restaurants",56395,365453,72418,8,3221,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Attibele Market 5,"Industrial Supplies, Warehousing, Restaurants",42700,408590,63998,4,1973,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Electronic City Industrial Area 5,"IT Parks, Restaurants, Clothing",54620,213118,29472,3,9207,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Chandapura Layout 5,"Industrial Supplies, Grocery, Electronics",40559,388805,60657,2,6881,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Jigani Main Road 5,"Industrial Supplies, Hardware, Restaurants",113045,177215,18471,9,3848,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Huskur Extension 6,"Grocery, Pharmacy, Restaurants",113396,26154,56796,1,377,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Begur Stage 6,"Real Estate, Restaurants, Supermarket",81642,172876,69776,7,1959,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Hulimangala Phase 6,"Grocery, Pharmacy, Restaurants",96539,454904,72843,5,6029,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Heelalige Block 6,"Warehousing, Grocery, Restaurants",41732,84288,45268,8,6892,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bannerghatta Cross 6,"Resorts, Wildlife Tourism, Restaurants",111362,71195,23329,4,4813,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bommasandra Market 6,"Industrial Supplies, Electronics, Grocery",50354,302725,49865,7,4775,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harapanahalli (Anekal) Industrial Area 6,"Grocery, Pharmacy, Restaurants",33843,465864,61850,5,1270,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Yamare Layout 6,"Agriculture, Nurseries, Grocery",91726,312231,69220,5,8781,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Muthanallur Main Road 6,"Real Estate, Grocery, Restaurants",37640,201002,61698,9,9474,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Sarjapur (Anekal) Extension 7,"Real Estate, Restaurants, Supermarket",72528,184053,43272,9,5408,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kasavanahalli Stage 7,"Restaurants, Supermarket, Clothing",58413,89298,57845,9,2562,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harlur Phase 7,"Real Estate, Restaurants, Supermarket",72638,328311,21397,6,9922,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kodathi Block 7,"Real Estate, Grocery, Restaurants",72736,226376,47373,6,387,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Dommasandra Cross 7,"Restaurants, Grocery, Pharmacy",88866,456624,78468,5,6053,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Basapura Market 7,"Electronics, Restaurants, Grocery",39087,59499,50525,9,4382,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Anekal Town Industrial Area 7,"Silk Sarees, Furniture, Restaurants",61430,407960,68072,8,2007,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Attibele Layout 7,"Industrial Supplies, Warehousing, Restaurants",44504,465485,39570,7,1261,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Electronic City Main Road 7,"IT Parks, Restaurants, Clothing",27114,189631,33284,7,229,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Chandapura Extension 8,"Industrial Supplies, Grocery, Electronics",98859,265198,33994,6,6437,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Jigani Stage 8,"Industrial Supplies, Hardware, Restaurants",119657,487535,38284,5,2463,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Huskur Phase 8,"Grocery, Pharmacy, Restaurants",30975,262997,76330,4,8251,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Begur Block 8,"Real Estate, Restaurants, Supermarket",31023,116347,32833,3,6083,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Hulimangala Cross 8,"Grocery, Pharmacy, Restaurants",41447,330931,40122,3,243,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Heelalige Market 8,"Warehousing, Grocery, Restaurants",110469,317632,79813,6,8307,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bannerghatta Industrial Area 8,"Resorts, Wildlife Tourism, Restaurants",43959,356585,20017,4,7569,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bommasandra Layout 8,"Industrial Supplies, Electronics, Grocery",86203,225735,31370,6,344,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harapanahalli (Anekal) Main Road 8,"Grocery, Pharmacy, Restaurants",49703,42431,44252,3,1026,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Yamare Extension 9,"Agriculture, Nurseries, Grocery",29337,343825,77812,4,3278,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Muthanallur Stage 9,"Real Estate, Grocery, Restaurants",66427,214555,22999,9,2276,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Sarjapur (Anekal) Phase 9,"Real Estate, Restaurants, Supermarket",81529,142720,37436,5,5102,22000,Planned,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kasavanahalli Block 9,"Restaurants, Supermarket, Clothing",104665,69153,57963,7,986,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Harlur Cross 9,"Real Estate, Restaurants, Supermarket",51921,288512,17096,2,8632,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Kodathi Market 9,"Real Estate, Grocery, Restaurants",53307,440640,79404,5,3498,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Dommasandra Industrial Area 9,"Restaurants, Grocery, Pharmacy",47355,394504,63201,9,8597,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Basapura Layout 9,"Electronics, Restaurants, Grocery",24835,196076,40279,3,9199,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Anekal Town Main Road 9,"Silk Sarees, Furniture, Restaurants",40159,497085,70556,9,2754,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Attibele Extension 10,"Industrial Supplies, Warehousing, Restaurants",67605,239724,58363,6,7492,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Electronic City Stage 10,"IT Parks, Restaurants, Clothing",58088,394899,63709,4,1471,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Chandapura Phase 10,"Industrial Supplies, Grocery, Electronics",98752,76985,41201,7,7235,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Jigani Block 10,"Industrial Supplies, Hardware, Restaurants",75284,332213,34715,8,420,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Huskur Cross 10,"Grocery, Pharmacy, Restaurants",77043,334470,44309,6,4754,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Begur Market 10,"Real Estate, Restaurants, Supermarket",55547,128737,30078,5,5400,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Hulimangala Industrial Area 10,"Grocery, Pharmacy, Restaurants",117007,232133,71614,6,6861,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Heelalige Layout 10,"Warehousing, Grocery, Restaurants",102844,174470,20105,5,6954,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,Anekal,Bannerghatta Main Road 10,"Resorts, Wildlife Tourism, Restaurants",47532,249465,67130,8,5605,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur,"Wholesale Market, Electronics, Clothing",54349,70861,44312,1,9423,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mathikere (West),"Cafe, Bookstore, Fitness",65445,358041,17839,7,6653,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Gokula,"Cafe, Grocery, Pharmacy",25713,232977,18384,2,4142,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muthyala Nagar,"Grocery, Pharmacy, Restaurants",76178,147118,58619,9,9109,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Suburb,"Industrial Supplies, Hardware, Machinery",69407,350721,57821,1,7598,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,HMT Layout,"Grocery, Pharmacy, Cafe",90340,216713,75200,6,6736,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muneshwara Nagar,"Grocery, Restaurants, Pharmacy",70990,29078,28493,9,7462,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Sondekoppa Road (fringe),"Warehousing, Transport, Hardware",95672,438219,32069,1,111,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Malleshwaram (West),"Cafe, Clothing Store, Books",85545,344912,61907,4,294,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Subramanya Nagar,"Grocery, Pharmacy, Cafe",104791,71047,22531,4,2637,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mahalakshmi Layout (West),"Cafe, Supermarket, Pharmacy",78141,353770,52051,9,2942,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Nandini Layout (West),"Grocery, Electronics, Restaurant",43793,339804,22736,5,2329,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Srirampura,"Clothing Store, Grocery, Pharmacy",76570,255458,22710,5,3109,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Goraguntepalya,"Automotive, Hardware, Industrial",115084,463002,16619,6,8084,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Peenya 2nd Stage (adjacent),"Industrial Supplies, Machinery, Hardware",57892,415141,28975,1,2177,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Soap Factory,"Retail, Grocery, Pharmacy",21015,235048,77424,1,7945,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,YPR Railway Colony,"Grocery, Pharmacy, Cafe",81813,256293,60603,9,3967,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,MES Road,"Automotive, Hardware, Grocery",47712,137832,38252,3,4973,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Hesaraghatta Cross (fringe),"Agriculture, Nurseries, Grocery",28415,412550,30261,4,8735,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Rajajinagar (West),"Electronics, Supermarket, Pharmacy",82292,145150,16431,1,397,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Extension 1,"Wholesale Market, Electronics, Clothing",43833,177087,24067,9,5956,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mathikere (West) Stage 1,"Cafe, Bookstore, Fitness",24158,53320,52481,8,9136,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Gokula Phase 1,"Cafe, Grocery, Pharmacy",82680,347025,42037,2,1115,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muthyala Nagar Block 1,"Grocery, Pharmacy, Restaurants",40309,110827,24557,8,1484,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Suburb Cross 1,"Industrial Supplies, Hardware, Machinery",26970,384359,24435,7,9689,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,HMT Layout Market 1,"Grocery, Pharmacy, Cafe",92474,439505,52766,6,8845,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muneshwara Nagar Industrial Area 1,"Grocery, Restaurants, Pharmacy",106704,279931,15162,1,2450,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Sondekoppa Road (fringe) Layout 1,"Warehousing, Transport, Hardware",66540,416605,49742,7,1369,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Malleshwaram (West) Main Road 1,"Cafe, Clothing Store, Books",40384,438899,34675,7,1360,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Subramanya Nagar Extension 2,"Grocery, Pharmacy, Cafe",38017,426845,23461,9,7801,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mahalakshmi Layout (West) Stage 2,"Cafe, Supermarket, Pharmacy",95880,343694,32015,1,8476,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Nandini Layout (West) Phase 2,"Grocery, Electronics, Restaurant",28702,44826,65057,2,4663,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Srirampura Block 2,"Clothing Store, Grocery, Pharmacy",20384,120734,47591,9,6997,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Goraguntepalya Cross 2,"Automotive, Hardware, Industrial",20404,177702,43047,9,5772,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Peenya 2nd Stage (adjacent) Market 2,"Industrial Supplies, Machinery, Hardware",60943,249834,75597,6,5693,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Soap Factory Industrial Area 2,"Retail, Grocery, Pharmacy",67926,197235,49782,6,6255,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,YPR Railway Colony Layout 2,"Grocery, Pharmacy, Cafe",49189,118511,24833,4,5643,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,MES Road Main Road 2,"Automotive, Hardware, Grocery",32763,479651,22896,4,7340,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Hesaraghatta Cross (fringe) Extension 3,"Agriculture, Nurseries, Grocery",38384,293797,47972,5,4783,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Rajajinagar (West) Stage 3,"Electronics, Supermarket, Pharmacy",80100,179033,64733,3,1981,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Phase 3,"Wholesale Market, Electronics, Clothing",118142,101941,69827,1,8813,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mathikere (West) Block 3,"Cafe, Bookstore, Fitness",29860,225209,56800,1,3909,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Gokula Cross 3,"Cafe, Grocery, Pharmacy",100642,315806,45508,7,5907,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muthyala Nagar Market 3,"Grocery, Pharmacy, Restaurants",70612,118818,20347,1,4983,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Suburb Industrial Area 3,"Industrial Supplies, Hardware, Machinery",43574,469662,74063,1,7306,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,HMT Layout Layout 3,"Grocery, Pharmacy, Cafe",43524,172360,45314,3,4255,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muneshwara Nagar Main Road 3,"Grocery, Restaurants, Pharmacy",89172,273627,17643,4,4773,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Sondekoppa Road (fringe) Extension 4,"Warehousing, Transport, Hardware",30916,115081,55785,4,1509,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Malleshwaram (West) Stage 4,"Cafe, Clothing Store, Books",24809,56877,33681,2,9986,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Subramanya Nagar Phase 4,"Grocery, Pharmacy, Cafe",52201,393706,65026,1,5297,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mahalakshmi Layout (West) Block 4,"Cafe, Supermarket, Pharmacy",73330,428529,53328,3,7552,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Nandini Layout (West) Cross 4,"Grocery, Electronics, Restaurant",33456,231957,30892,4,8818,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Srirampura Market 4,"Clothing Store, Grocery, Pharmacy",76397,92715,62299,3,2272,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Goraguntepalya Industrial Area 4,"Automotive, Hardware, Industrial",58765,161398,32073,8,379,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Peenya 2nd Stage (adjacent) Layout 4,"Industrial Supplies, Machinery, Hardware",54816,130091,51768,1,4077,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Soap Factory Main Road 4,"Retail, Grocery, Pharmacy",65106,152632,45682,2,2769,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,YPR Railway Colony Extension 5,"Grocery, Pharmacy, Cafe",73932,361292,47262,7,7925,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,MES Road Stage 5,"Automotive, Hardware, Grocery",37100,103186,75485,4,4081,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Hesaraghatta Cross (fringe) Phase 5,"Agriculture, Nurseries, Grocery",77091,439961,46358,8,4869,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Rajajinagar (West) Block 5,"Electronics, Supermarket, Pharmacy",41949,182962,73766,3,5347,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Cross 5,"Wholesale Market, Electronics, Clothing",90080,171094,29289,6,4527,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mathikere (West) Market 5,"Cafe, Bookstore, Fitness",57744,405773,64823,9,6235,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Gokula Industrial Area 5,"Cafe, Grocery, Pharmacy",65543,465795,22927,1,5673,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muthyala Nagar Layout 5,"Grocery, Pharmacy, Restaurants",112193,90316,63330,1,4231,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Suburb Main Road 5,"Industrial Supplies, Hardware, Machinery",56187,497063,16171,8,7289,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,HMT Layout Extension 6,"Grocery, Pharmacy, Cafe",27239,48380,69743,3,4635,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muneshwara Nagar Stage 6,"Grocery, Restaurants, Pharmacy",34489,130198,26918,5,2876,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Sondekoppa Road (fringe) Phase 6,"Warehousing, Transport, Hardware",78017,284500,56903,1,9411,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Malleshwaram (West) Block 6,"Cafe, Clothing Store, Books",81877,90326,54110,5,7797,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Subramanya Nagar Cross 6,"Grocery, Pharmacy, Cafe",63125,374591,65601,6,8486,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mahalakshmi Layout (West) Market 6,"Cafe, Supermarket, Pharmacy",69922,134994,26929,8,762,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Nandini Layout (West) Industrial Area 6,"Grocery, Electronics, Restaurant",114074,240971,17539,3,8771,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Srirampura Layout 6,"Clothing Store, Grocery, Pharmacy",52049,302193,51727,3,8144,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Goraguntepalya Main Road 6,"Automotive, Hardware, Industrial",57131,488933,60951,9,4318,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Peenya 2nd Stage (adjacent) Extension 7,"Industrial Supplies, Machinery, Hardware",62944,387505,37669,4,9715,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Soap Factory Stage 7,"Retail, Grocery, Pharmacy",93963,298226,20432,4,5160,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,YPR Railway Colony Phase 7,"Grocery, Pharmacy, Cafe",44285,282805,35644,7,5974,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,MES Road Block 7,"Automotive, Hardware, Grocery",57626,188484,33745,2,5681,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Hesaraghatta Cross (fringe) Cross 7,"Agriculture, Nurseries, Grocery",62808,285064,70316,8,2114,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Rajajinagar (West) Market 7,"Electronics, Supermarket, Pharmacy",108464,265378,77545,6,3889,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Area 7,"Wholesale Market, Electronics, Clothing",73871,473531,43228,3,9203,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mathikere (West) Layout 7,"Cafe, Bookstore, Fitness",39198,361705,79642,9,7248,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Gokula Main Road 7,"Cafe, Grocery, Pharmacy",39758,291090,67822,5,7866,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muthyala Nagar Extension 8,"Grocery, Pharmacy, Restaurants",35254,245314,49521,8,2464,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Suburb Stage 8,"Industrial Supplies, Hardware, Machinery",64238,458716,72252,7,3729,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,HMT Layout Phase 8,"Grocery, Pharmacy, Cafe",21252,255612,46703,8,6019,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muneshwara Nagar Block 8,"Grocery, Restaurants, Pharmacy",59764,298453,41928,7,5775,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Sondekoppa Road (fringe) Cross 8,"Warehousing, Transport, Hardware",97709,75230,33322,3,8972,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Malleshwaram (West) Market 8,"Cafe, Clothing Store, Books",57441,393966,72714,2,6738,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Subramanya Nagar Industrial Area 8,"Grocery, Pharmacy, Cafe",112234,443243,37360,7,4751,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mahalakshmi Layout (West) Layout 8,"Cafe, Supermarket, Pharmacy",73682,485757,77292,3,709,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Nandini Layout (West) Main Road 8,"Grocery, Electronics, Restaurant",79494,394484,44055,3,8040,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Srirampura Extension 9,"Clothing Store, Grocery, Pharmacy",101317,79321,57891,2,3966,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Goraguntepalya Stage 9,"Automotive, Hardware, Industrial",85215,152028,31376,4,471,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Peenya 2nd Stage (adjacent) Phase 9,"Industrial Supplies, Machinery, Hardware",98587,251447,21588,8,7098,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Soap Factory Block 9,"Retail, Grocery, Pharmacy",26949,356275,40000,1,715,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,YPR Railway Colony Cross 9,"Grocery, Pharmacy, Cafe",75393,461124,21304,1,7011,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,MES Road Market 9,"Automotive, Hardware, Grocery",93553,491555,22345,5,6110,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Hesaraghatta Cross (fringe) Industrial Area 9,"Agriculture, Nurseries, Grocery",26941,308107,44300,5,2353,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Rajajinagar (West) Layout 9,"Electronics, Supermarket, Pharmacy",45934,121757,39259,1,5042,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Main Road 9,"Wholesale Market, Electronics, Clothing",43386,452659,40470,6,964,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Mathikere (West) Extension 10,"Cafe, Bookstore, Fitness",81886,381403,38017,1,1368,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Gokula Stage 10,"Cafe, Grocery, Pharmacy",95745,321207,30352,5,7554,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muthyala Nagar Phase 10,"Grocery, Pharmacy, Restaurants",103251,396369,78814,9,9076,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Yeshwanthpur Industrial Suburb Block 10,"Industrial Supplies, Hardware, Machinery",114456,398544,48365,5,4671,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,HMT Layout Cross 10,"Grocery, Pharmacy, Cafe",73413,362962,34446,6,5329,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Muneshwara Nagar Market 10,"Grocery, Restaurants, Pharmacy",76800,286847,17336,8,2337,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Sondekoppa Road (fringe) Industrial Area 10,"Warehousing, Transport, Hardware",117239,216200,77032,1,4154,,No,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Malleshwaram (West) Layout 10,"Cafe, Clothing Store, Books",62318,92099,24879,2,1035,28000,Yes,12627,3603 (28.5%),25-44
+Bangalore Urban,RR Nagar / Yeshwanthpur,Subramanya Nagar Main Road 10,"Grocery, Pharmacy, Cafe",90173,439065,47316,9,6494,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Devanahalli Town,"Real Estate, Hotels, Restaurants",90390,182932,48340,3,7991,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kempegowda International Airport Vicinity,"Hotels, Travel, Restaurants",72329,51585,22521,6,425,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkajala,"Real Estate, Hotels, Restaurants",63088,435231,21171,5,9826,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Betta Halasuru,"Agriculture, Nurseries, Grocery",59811,490755,38481,2,7874,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Avathi,"Agriculture, Warehousing, Grocery",75479,63585,33474,7,3961,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Anneshwara,"Agriculture, Nurseries, Grocery",105392,309102,61760,4,2085,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Begur (Devanahalli),"Grocery, Pharmacy, Restaurants",107369,308161,70718,1,5032,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kundana,"Agriculture, Grocery, Pharmacy",39963,489923,59629,4,4703,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yelahanka Airfield Fringe,"Hotels, Travel, Restaurants",75123,406821,60232,6,2878,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bodanahosahalli,"Agriculture, Grocery, Pharmacy",112705,458566,36008,7,9562,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Singahalli,"Agriculture, Grocery, Nurseries",93477,425417,16633,7,8932,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Vishwanathapura,"Real Estate, Grocery, Restaurants",34388,311570,77405,7,7854,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Sathanur,"Agriculture, Grocery, Pharmacy",25569,299922,65669,3,4178,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Nagenahalli,"Agriculture, Grocery, Pharmacy",89836,196313,27485,6,1467,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Aradeshanahalli,"Real Estate, Grocery, Restaurants",56586,62229,58617,8,4142,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bettakote,"Agriculture, Grocery, Pharmacy",32015,106652,18648,4,2675,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yeliyur,"Agriculture, Grocery, Nurseries",65002,410411,62945,8,6854,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chennahalli,"Agriculture, Grocery, Pharmacy",26254,269474,28140,2,1681,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkasanne,"Agriculture, Grocery, Pharmacy",37144,199436,75932,9,2086,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bychapura,"Agriculture, Grocery, Nurseries",44214,408647,32921,9,2340,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Devanahalli Town Extension 1,"Real Estate, Hotels, Restaurants",100719,280116,29357,8,4066,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kempegowda International Airport Vicinity Stage 1,"Hotels, Travel, Restaurants",91774,367022,79623,1,7704,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkajala Phase 1,"Real Estate, Hotels, Restaurants",26090,339200,61136,2,8420,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Betta Halasuru Block 1,"Agriculture, Nurseries, Grocery",31637,440706,18137,6,6068,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Avathi Cross 1,"Agriculture, Warehousing, Grocery",42415,39975,71137,5,9143,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Anneshwara Market 1,"Agriculture, Nurseries, Grocery",44071,177795,15097,9,7593,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Begur (Devanahalli) Industrial Area 1,"Grocery, Pharmacy, Restaurants",78243,436495,26407,5,4203,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kundana Layout 1,"Agriculture, Grocery, Pharmacy",61240,229373,45575,2,2176,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yelahanka Airfield Fringe Main Road 1,"Hotels, Travel, Restaurants",103807,424777,27722,4,5331,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bodanahosahalli Extension 2,"Agriculture, Grocery, Pharmacy",53434,217133,27924,9,3094,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Singahalli Stage 2,"Agriculture, Grocery, Nurseries",89724,370541,18750,1,3844,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Vishwanathapura Phase 2,"Real Estate, Grocery, Restaurants",95697,200225,42733,1,5694,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Sathanur Block 2,"Agriculture, Grocery, Pharmacy",48732,315286,77027,7,7631,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Nagenahalli Cross 2,"Agriculture, Grocery, Pharmacy",31314,309060,23535,3,7471,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Aradeshanahalli Market 2,"Real Estate, Grocery, Restaurants",43954,84324,72326,2,1744,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bettakote Industrial Area 2,"Agriculture, Grocery, Pharmacy",77108,196037,39487,9,3244,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yeliyur Layout 2,"Agriculture, Grocery, Nurseries",107044,408076,69565,3,342,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chennahalli Main Road 2,"Agriculture, Grocery, Pharmacy",107505,155720,45651,2,4185,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkasanne Extension 3,"Agriculture, Grocery, Pharmacy",56668,186205,19666,8,8054,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bychapura Stage 3,"Agriculture, Grocery, Nurseries",43061,463893,63777,6,7369,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Devanahalli Town Phase 3,"Real Estate, Hotels, Restaurants",99252,116059,31994,6,7230,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kempegowda International Airport Vicinity Block 3,"Hotels, Travel, Restaurants",59749,118317,16727,7,6928,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkajala Cross 3,"Real Estate, Hotels, Restaurants",36907,221207,74634,7,8462,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Betta Halasuru Market 3,"Agriculture, Nurseries, Grocery",38777,317190,49622,6,8944,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Avathi Industrial Area 3,"Agriculture, Warehousing, Grocery",113229,460280,25800,4,6431,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Anneshwara Layout 3,"Agriculture, Nurseries, Grocery",71745,121459,52823,9,3612,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Begur (Devanahalli) Main Road 3,"Grocery, Pharmacy, Restaurants",111865,257697,58039,6,1599,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kundana Extension 4,"Agriculture, Grocery, Pharmacy",101818,220422,78878,4,2258,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yelahanka Airfield Fringe Stage 4,"Hotels, Travel, Restaurants",43624,328037,33708,3,5262,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bodanahosahalli Phase 4,"Agriculture, Grocery, Pharmacy",43321,121520,27819,4,4139,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Singahalli Block 4,"Agriculture, Grocery, Nurseries",30488,407962,24369,3,2135,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Vishwanathapura Cross 4,"Real Estate, Grocery, Restaurants",42574,81272,78870,2,8077,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Sathanur Market 4,"Agriculture, Grocery, Pharmacy",25240,243224,24283,5,957,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Nagenahalli Industrial Area 4,"Agriculture, Grocery, Pharmacy",63221,349793,45573,2,3923,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Aradeshanahalli Layout 4,"Real Estate, Grocery, Restaurants",30478,346818,28171,6,6870,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bettakote Main Road 4,"Agriculture, Grocery, Pharmacy",75645,164832,45933,3,9341,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yeliyur Extension 5,"Agriculture, Grocery, Nurseries",39262,172999,20774,6,398,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chennahalli Stage 5,"Agriculture, Grocery, Pharmacy",72796,368619,21519,9,7344,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkasanne Phase 5,"Agriculture, Grocery, Pharmacy",24432,81367,25983,1,1023,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bychapura Block 5,"Agriculture, Grocery, Nurseries",115257,249027,45932,6,4332,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Devanahalli Town Cross 5,"Real Estate, Hotels, Restaurants",84291,425804,45798,9,4406,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kempegowda International Airport Vicinity Market 5,"Hotels, Travel, Restaurants",99104,403894,33133,4,2899,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkajala Industrial Area 5,"Real Estate, Hotels, Restaurants",79399,252750,75019,2,6678,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Betta Halasuru Layout 5,"Agriculture, Nurseries, Grocery",99714,255806,29939,4,4975,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Avathi Main Road 5,"Agriculture, Warehousing, Grocery",70428,400298,15781,1,5426,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Anneshwara Extension 6,"Agriculture, Nurseries, Grocery",107731,203305,64050,3,6682,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Begur (Devanahalli) Stage 6,"Grocery, Pharmacy, Restaurants",20302,64738,71700,9,1902,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kundana Phase 6,"Agriculture, Grocery, Pharmacy",102558,53397,42624,5,2757,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yelahanka Airfield Fringe Block 6,"Hotels, Travel, Restaurants",20055,364333,21823,6,3446,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bodanahosahalli Cross 6,"Agriculture, Grocery, Pharmacy",28717,358511,33489,3,9763,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Singahalli Market 6,"Agriculture, Grocery, Nurseries",48699,222332,68019,5,3049,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Vishwanathapura Industrial Area 6,"Real Estate, Grocery, Restaurants",93686,402729,54961,8,1041,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Sathanur Layout 6,"Agriculture, Grocery, Pharmacy",87661,358763,69128,6,2007,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Nagenahalli Main Road 6,"Agriculture, Grocery, Pharmacy",64247,131453,44118,4,4937,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Aradeshanahalli Extension 7,"Real Estate, Grocery, Restaurants",36748,39816,49881,2,8205,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bettakote Stage 7,"Agriculture, Grocery, Pharmacy",24621,455456,31280,9,1343,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yeliyur Phase 7,"Agriculture, Grocery, Nurseries",35034,419492,37263,1,5796,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chennahalli Block 7,"Agriculture, Grocery, Pharmacy",25126,265011,28565,1,1566,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkasanne Cross 7,"Agriculture, Grocery, Pharmacy",25122,361674,35354,4,4057,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bychapura Market 7,"Agriculture, Grocery, Nurseries",38030,436715,57951,7,2066,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Devanahalli Town Industrial Area 7,"Real Estate, Hotels, Restaurants",102838,391000,40643,1,475,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kempegowda International Airport Vicinity Layout 7,"Hotels, Travel, Restaurants",104717,233567,38648,9,362,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkajala Main Road 7,"Real Estate, Hotels, Restaurants",75658,91635,65729,4,4462,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Betta Halasuru Extension 8,"Agriculture, Nurseries, Grocery",58638,389947,56971,3,6602,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Avathi Stage 8,"Agriculture, Warehousing, Grocery",87067,236184,33658,1,7933,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Anneshwara Phase 8,"Agriculture, Nurseries, Grocery",108869,318090,36253,4,1993,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Begur (Devanahalli) Block 8,"Grocery, Pharmacy, Restaurants",54674,337348,79166,9,8206,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kundana Cross 8,"Agriculture, Grocery, Pharmacy",55854,202958,63563,6,1752,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yelahanka Airfield Fringe Market 8,"Hotels, Travel, Restaurants",66271,484868,41390,6,5640,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bodanahosahalli Industrial Area 8,"Agriculture, Grocery, Pharmacy",93688,297707,38128,1,3992,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Singahalli Layout 8,"Agriculture, Grocery, Nurseries",58518,112324,66578,2,699,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Vishwanathapura Main Road 8,"Real Estate, Grocery, Restaurants",30267,243536,28489,6,4915,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Sathanur Extension 9,"Agriculture, Grocery, Pharmacy",110825,252944,53314,2,2012,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Nagenahalli Stage 9,"Agriculture, Grocery, Pharmacy",21062,291991,47658,3,9584,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Aradeshanahalli Phase 9,"Real Estate, Grocery, Restaurants",70448,46155,21852,4,8892,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bettakote Block 9,"Agriculture, Grocery, Pharmacy",115462,361815,76746,5,8672,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yeliyur Cross 9,"Agriculture, Grocery, Nurseries",26229,136891,44450,9,4313,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chennahalli Market 9,"Agriculture, Grocery, Pharmacy",76793,365454,17551,4,3737,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkasanne Industrial Area 9,"Agriculture, Grocery, Pharmacy",67915,480494,21411,9,9390,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bychapura Layout 9,"Agriculture, Grocery, Nurseries",24632,169381,76001,3,5699,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Devanahalli Town Main Road 9,"Real Estate, Hotels, Restaurants",23596,151691,64159,8,6548,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kempegowda International Airport Vicinity Extension 10,"Hotels, Travel, Restaurants",26168,496410,72239,1,8657,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Chikkajala Stage 10,"Real Estate, Hotels, Restaurants",27561,463324,66707,9,7482,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Betta Halasuru Phase 10,"Agriculture, Nurseries, Grocery",93794,54707,48243,9,9082,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Avathi Block 10,"Agriculture, Warehousing, Grocery",102152,433553,36800,2,3669,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Anneshwara Cross 10,"Agriculture, Nurseries, Grocery",46734,363681,25403,4,7807,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Begur (Devanahalli) Market 10,"Grocery, Pharmacy, Restaurants",26371,217576,72828,8,846,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Kundana Industrial Area 10,"Agriculture, Grocery, Pharmacy",46069,198686,22239,7,8604,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Yelahanka Airfield Fringe Layout 10,"Hotels, Travel, Restaurants",99905,242500,21710,1,4733,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Devanahalli,Bodanahosahalli Main Road 10,"Agriculture, Grocery, Pharmacy",32910,373299,36384,5,1020,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Doddaballapur Town,"Textiles, Warehousing, Restaurants",93479,282425,36038,7,9369,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajankunte,"Textiles, Grocery, Restaurants",97735,178492,55846,4,7108,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Bashettihalli,"Industrial, Textiles, Hardware",101264,494112,37447,1,2481,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Suradenapura,"Agriculture, Nurseries, Grocery",43275,190102,17285,9,3718,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Meenukunte,"Agriculture, Grocery, Pharmacy",92274,414274,52991,5,9089,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Acharlahalli,"Agriculture, Grocery, Nurseries",101449,237285,28521,2,4543,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Naduvathlapura,"Agriculture, Grocery, Pharmacy",80004,358404,62657,8,372,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Thyamagondlu (fringe),"Transport, Warehousing, Restaurants",82981,179476,21971,2,1873,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sugganahalli,"Agriculture, Grocery, Pharmacy",104659,254554,44139,3,2647,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Vaderahalli,"Agriculture, Grocery, Nurseries",74553,180928,34909,1,3264,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Gulur,"Agriculture, Grocery, Pharmacy",68447,160272,26531,2,4880,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Oddarahalli,"Agriculture, Grocery, Nurseries",54529,346322,29721,7,1046,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura,"Agriculture, Grocery, Pharmacy",95703,316141,34206,2,606,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Tubagere,"Agriculture, Grocery, Nurseries",96090,438827,52711,6,6819,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Ajjanahalli,"Agriculture, Grocery, Pharmacy",37260,139273,21530,3,8535,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajghatta,"Agriculture, Grocery, Nurseries",23812,192307,26116,4,8797,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Hobli,"Agriculture, Grocery, Nurseries",48024,268500,15258,8,6460,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hampasandra,"Agriculture, Grocery, Pharmacy",78656,186129,15282,3,7757,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Heggadihalli,"Agriculture, Grocery, Nurseries",47285,152311,28937,6,3690,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hosahalli (Doddaballapur),"Agriculture, Grocery, Pharmacy",112436,254746,16898,1,1292,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Doddaballapur Town Extension 1,"Textiles, Warehousing, Restaurants",21605,265546,19135,7,1564,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajankunte Stage 1,"Textiles, Grocery, Restaurants",91158,216733,21629,8,490,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Bashettihalli Phase 1,"Industrial, Textiles, Hardware",92303,146945,58936,8,5715,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Suradenapura Block 1,"Agriculture, Nurseries, Grocery",47139,65272,74611,3,6206,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Meenukunte Cross 1,"Agriculture, Grocery, Pharmacy",97149,371537,34584,1,8964,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Acharlahalli Market 1,"Agriculture, Grocery, Nurseries",76138,343356,69262,9,2660,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Naduvathlapura Industrial Area 1,"Agriculture, Grocery, Pharmacy",96125,166470,38551,6,5967,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Thyamagondlu (fringe) Layout 1,"Transport, Warehousing, Restaurants",33918,140030,48380,9,1311,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sugganahalli Main Road 1,"Agriculture, Grocery, Pharmacy",105655,338647,79415,7,9221,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Vaderahalli Extension 2,"Agriculture, Grocery, Nurseries",47446,419854,61971,1,1639,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Gulur Stage 2,"Agriculture, Grocery, Pharmacy",33046,26570,32071,1,9204,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Oddarahalli Phase 2,"Agriculture, Grocery, Nurseries",44818,350929,35074,6,743,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Block 2,"Agriculture, Grocery, Pharmacy",24324,29110,40188,5,8793,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Tubagere Cross 2,"Agriculture, Grocery, Nurseries",96323,99141,17307,9,9021,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Ajjanahalli Market 2,"Agriculture, Grocery, Pharmacy",29111,32115,54901,2,1383,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajghatta Industrial Area 2,"Agriculture, Grocery, Nurseries",58110,59062,26205,8,7780,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Hobli Layout 2,"Agriculture, Grocery, Nurseries",36389,305055,70661,5,7445,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hampasandra Main Road 2,"Agriculture, Grocery, Pharmacy",61427,124061,74125,2,4486,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Heggadihalli Extension 3,"Agriculture, Grocery, Nurseries",99579,314700,20906,6,1019,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hosahalli (Doddaballapur) Stage 3,"Agriculture, Grocery, Pharmacy",48746,491347,17591,8,2439,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Doddaballapur Town Phase 3,"Textiles, Warehousing, Restaurants",107886,410479,75040,4,9047,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajankunte Block 3,"Textiles, Grocery, Restaurants",20117,21969,77987,2,6030,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Bashettihalli Cross 3,"Industrial, Textiles, Hardware",104471,325897,78370,5,5502,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Suradenapura Market 3,"Agriculture, Nurseries, Grocery",33234,496027,30149,2,5763,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Meenukunte Industrial Area 3,"Agriculture, Grocery, Pharmacy",73441,417686,59918,2,5375,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Acharlahalli Layout 3,"Agriculture, Grocery, Nurseries",20846,141863,54951,6,607,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Naduvathlapura Main Road 3,"Agriculture, Grocery, Pharmacy",30954,292369,69400,9,1536,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Thyamagondlu (fringe) Extension 4,"Transport, Warehousing, Restaurants",99239,143008,40150,4,8850,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sugganahalli Stage 4,"Agriculture, Grocery, Pharmacy",66514,174268,46852,6,7454,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Vaderahalli Phase 4,"Agriculture, Grocery, Nurseries",108236,125823,57870,7,4616,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Gulur Block 4,"Agriculture, Grocery, Pharmacy",117579,295813,69260,6,3722,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Oddarahalli Cross 4,"Agriculture, Grocery, Nurseries",26469,450596,67756,8,4499,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Market 4,"Agriculture, Grocery, Pharmacy",50105,406542,64821,4,5137,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Tubagere Industrial Area 4,"Agriculture, Grocery, Nurseries",62101,130677,68516,1,8211,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Ajjanahalli Layout 4,"Agriculture, Grocery, Pharmacy",84323,266958,71481,7,3815,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajghatta Main Road 4,"Agriculture, Grocery, Nurseries",111922,68320,16283,3,7937,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Hobli Extension 5,"Agriculture, Grocery, Nurseries",78067,460630,48691,6,1401,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hampasandra Stage 5,"Agriculture, Grocery, Pharmacy",69376,166649,16125,2,7470,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Heggadihalli Phase 5,"Agriculture, Grocery, Nurseries",65587,145354,16529,9,5285,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hosahalli (Doddaballapur) Block 5,"Agriculture, Grocery, Pharmacy",56976,108009,78198,1,2255,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Doddaballapur Town Cross 5,"Textiles, Warehousing, Restaurants",87584,277437,41170,6,6511,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajankunte Market 5,"Textiles, Grocery, Restaurants",98477,468625,23438,6,6465,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Bashettihalli Industrial Area 5,"Industrial, Textiles, Hardware",62533,48625,35095,5,792,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Suradenapura Layout 5,"Agriculture, Nurseries, Grocery",21828,232112,31154,5,1578,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Meenukunte Main Road 5,"Agriculture, Grocery, Pharmacy",21917,306233,23004,1,6496,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Acharlahalli Extension 6,"Agriculture, Grocery, Nurseries",40618,56487,24752,5,8548,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Naduvathlapura Stage 6,"Agriculture, Grocery, Pharmacy",52254,479054,70426,2,541,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Thyamagondlu (fringe) Phase 6,"Transport, Warehousing, Restaurants",67362,248071,58360,7,2746,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sugganahalli Block 6,"Agriculture, Grocery, Pharmacy",40128,392592,41819,3,5309,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Vaderahalli Cross 6,"Agriculture, Grocery, Nurseries",79383,332282,51632,4,6633,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Gulur Market 6,"Agriculture, Grocery, Pharmacy",85545,193895,41515,3,4777,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Oddarahalli Industrial Area 6,"Agriculture, Grocery, Nurseries",102180,450424,77369,3,7311,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Layout 6,"Agriculture, Grocery, Pharmacy",107958,336205,39217,4,2745,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Tubagere Main Road 6,"Agriculture, Grocery, Nurseries",29865,443875,79893,5,8310,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Ajjanahalli Extension 7,"Agriculture, Grocery, Pharmacy",22219,121376,75413,1,9416,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajghatta Stage 7,"Agriculture, Grocery, Nurseries",59809,445106,38172,4,8033,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Hobli Phase 7,"Agriculture, Grocery, Nurseries",25287,361278,47994,8,5576,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hampasandra Block 7,"Agriculture, Grocery, Pharmacy",54387,329199,30036,7,8028,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Heggadihalli Cross 7,"Agriculture, Grocery, Nurseries",28512,263341,26739,9,2180,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hosahalli (Doddaballapur) Market 7,"Agriculture, Grocery, Pharmacy",21342,301652,47220,5,6189,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Doddaballapur Town Industrial Area 7,"Textiles, Warehousing, Restaurants",83076,455503,64416,4,7496,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajankunte Layout 7,"Textiles, Grocery, Restaurants",39216,492132,24587,8,9839,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Bashettihalli Main Road 7,"Industrial, Textiles, Hardware",113070,178056,59517,9,7897,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Suradenapura Extension 8,"Agriculture, Nurseries, Grocery",99767,130169,45129,7,961,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Meenukunte Stage 8,"Agriculture, Grocery, Pharmacy",117829,290269,15645,7,8446,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Acharlahalli Phase 8,"Agriculture, Grocery, Nurseries",46614,56059,45930,5,3594,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Naduvathlapura Block 8,"Agriculture, Grocery, Pharmacy",56258,482785,31299,4,1004,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Thyamagondlu (fringe) Cross 8,"Transport, Warehousing, Restaurants",113789,123409,71696,1,1369,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sugganahalli Market 8,"Agriculture, Grocery, Pharmacy",62078,430303,45090,7,504,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Vaderahalli Industrial Area 8,"Agriculture, Grocery, Nurseries",103524,25704,36953,1,9135,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Gulur Layout 8,"Agriculture, Grocery, Pharmacy",116573,473792,67142,1,9856,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Oddarahalli Main Road 8,"Agriculture, Grocery, Nurseries",32219,224456,61443,5,1284,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Extension 9,"Agriculture, Grocery, Pharmacy",20235,238200,41475,9,9038,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Tubagere Stage 9,"Agriculture, Grocery, Nurseries",62929,131279,33888,6,1825,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Ajjanahalli Phase 9,"Agriculture, Grocery, Pharmacy",87444,485676,58732,3,8562,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajghatta Block 9,"Agriculture, Grocery, Nurseries",28567,178280,31087,3,5911,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sompura Hobli Cross 9,"Agriculture, Grocery, Nurseries",90792,138516,61305,7,5706,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hampasandra Market 9,"Agriculture, Grocery, Pharmacy",85441,498366,61037,6,4056,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Heggadihalli Industrial Area 9,"Agriculture, Grocery, Nurseries",104555,217096,24346,9,271,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Hosahalli (Doddaballapur) Layout 9,"Agriculture, Grocery, Pharmacy",93698,453098,15587,6,8565,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Doddaballapur Town Main Road 9,"Textiles, Warehousing, Restaurants",25415,439139,27763,5,2406,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Rajankunte Extension 10,"Textiles, Grocery, Restaurants",56159,396188,74165,7,9450,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Bashettihalli Stage 10,"Industrial, Textiles, Hardware",63925,252549,56945,1,9998,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Suradenapura Phase 10,"Agriculture, Nurseries, Grocery",25951,49165,19079,7,521,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Meenukunte Block 10,"Agriculture, Grocery, Pharmacy",107388,87203,51116,3,5640,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Acharlahalli Cross 10,"Agriculture, Grocery, Nurseries",28007,286258,70451,9,9501,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Naduvathlapura Market 10,"Agriculture, Grocery, Pharmacy",61832,478181,35215,6,4775,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Thyamagondlu (fringe) Industrial Area 10,"Transport, Warehousing, Restaurants",78596,56321,40817,9,9182,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Sugganahalli Layout 10,"Agriculture, Grocery, Pharmacy",50523,355441,39765,5,6848,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Doddaballapur,Vaderahalli Main Road 10,"Agriculture, Grocery, Nurseries",108861,378796,45112,7,6203,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hoskote Town,"Transport, Warehousing, Restaurants",106740,381448,40556,4,1573,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Nandagudi,"Agriculture, Nurseries, Grocery",35524,265014,74042,7,3343,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Narasapura,"Industrial, Machinery, Hardware",39282,176498,33099,1,2281,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Malur Road Belt,"Transport, Warehousing, Restaurants",43930,37772,58553,7,9741,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Anugondanahalli,"Agriculture, Nurseries, Grocery",20077,385898,60096,8,3196,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Sulibele,"Agriculture, Grocery, Pharmacy",40611,285856,21450,5,6746,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthasandra,"Agriculture, Grocery, Nurseries",36984,414583,28230,2,9882,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Konduru,"Agriculture, Grocery, Pharmacy",34060,258389,44009,5,5982,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hattaruru,"Agriculture, Grocery, Nurseries",102985,135142,20433,6,6082,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Kurubarahalli (Hoskote),"Agriculture, Grocery, Pharmacy",104056,111736,48866,2,5898,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Avalahalli (Hoskote),"Real Estate, Grocery, Restaurants",63303,71924,54864,6,9727,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Jadigenahalli,"Agriculture, Grocery, Pharmacy",79207,23726,33710,6,8515,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Doddaballapur Road Belt,"Transport, Warehousing, Restaurants",95046,371296,26439,1,8511,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Begur (Hoskote),"Agriculture, Grocery, Pharmacy",49287,47723,56855,1,9946,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Attibele Road Fringe,"Transport, Warehousing, Hardware",113709,409113,31021,3,8556,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Mallarabanawadi,"Agriculture, Grocery, Pharmacy",59711,254182,21416,3,9245,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Koralur,"Agriculture, Grocery, Nurseries",31954,382638,21980,4,4624,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Chokkasandra (Hoskote),"Agriculture, Grocery, Pharmacy",93340,160180,70915,2,6659,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Thimmasandra (Hoskote),"Agriculture, Grocery, Nurseries",92101,228786,33058,9,7720,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthkur,"Agriculture, Grocery, Pharmacy",91520,55643,26101,7,2874,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hoskote Town Extension 1,"Transport, Warehousing, Restaurants",107062,182396,55718,7,5773,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Nandagudi Stage 1,"Agriculture, Nurseries, Grocery",38574,386040,47602,6,3224,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Narasapura Phase 1,"Industrial, Machinery, Hardware",29184,234432,24122,3,8771,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Malur Road Belt Block 1,"Transport, Warehousing, Restaurants",39096,159999,27576,6,1453,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Anugondanahalli Cross 1,"Agriculture, Nurseries, Grocery",87728,375824,73067,8,9181,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Sulibele Market 1,"Agriculture, Grocery, Pharmacy",54016,378690,42516,8,3954,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthasandra Industrial Area 1,"Agriculture, Grocery, Nurseries",31246,435659,78759,9,8234,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Konduru Layout 1,"Agriculture, Grocery, Pharmacy",65558,99973,37433,1,1024,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hattaruru Main Road 1,"Agriculture, Grocery, Nurseries",38381,345593,16089,1,2270,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Kurubarahalli (Hoskote) Extension 2,"Agriculture, Grocery, Pharmacy",56455,129834,52346,3,5606,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Avalahalli (Hoskote) Stage 2,"Real Estate, Grocery, Restaurants",112263,256386,24127,3,2495,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Jadigenahalli Phase 2,"Agriculture, Grocery, Pharmacy",24018,489959,25487,8,8320,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Doddaballapur Road Belt Block 2,"Transport, Warehousing, Restaurants",31302,473449,15155,1,8326,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Begur (Hoskote) Cross 2,"Agriculture, Grocery, Pharmacy",87506,307681,73414,2,5615,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Attibele Road Fringe Market 2,"Transport, Warehousing, Hardware",61157,359720,16958,2,2770,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Mallarabanawadi Industrial Area 2,"Agriculture, Grocery, Pharmacy",74917,127522,25693,3,3465,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Koralur Layout 2,"Agriculture, Grocery, Nurseries",112738,42612,54112,6,688,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Chokkasandra (Hoskote) Main Road 2,"Agriculture, Grocery, Pharmacy",116646,245049,53547,1,3238,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Thimmasandra (Hoskote) Extension 3,"Agriculture, Grocery, Nurseries",103122,288615,43795,2,9195,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthkur Stage 3,"Agriculture, Grocery, Pharmacy",44519,186703,70296,1,6763,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hoskote Town Phase 3,"Transport, Warehousing, Restaurants",116809,260069,36447,5,4186,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Nandagudi Block 3,"Agriculture, Nurseries, Grocery",107487,243131,51598,7,8631,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Narasapura Cross 3,"Industrial, Machinery, Hardware",76819,51348,56814,8,4370,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Malur Road Belt Market 3,"Transport, Warehousing, Restaurants",100910,215804,40215,1,6119,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Anugondanahalli Industrial Area 3,"Agriculture, Nurseries, Grocery",91324,283321,74582,7,656,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Sulibele Layout 3,"Agriculture, Grocery, Pharmacy",25408,155832,24794,5,8122,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthasandra Main Road 3,"Agriculture, Grocery, Nurseries",79379,314923,70811,1,5552,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Konduru Extension 4,"Agriculture, Grocery, Pharmacy",45053,303780,48209,3,3667,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hattaruru Stage 4,"Agriculture, Grocery, Nurseries",29446,101889,37424,7,3999,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Kurubarahalli (Hoskote) Phase 4,"Agriculture, Grocery, Pharmacy",20922,73551,78278,1,6577,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Avalahalli (Hoskote) Block 4,"Real Estate, Grocery, Restaurants",118723,424772,70077,7,7600,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Jadigenahalli Cross 4,"Agriculture, Grocery, Pharmacy",71356,440814,62246,5,1116,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Doddaballapur Road Belt Market 4,"Transport, Warehousing, Restaurants",30789,162635,71510,1,6570,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Begur (Hoskote) Industrial Area 4,"Agriculture, Grocery, Pharmacy",117720,66819,52396,1,2162,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Attibele Road Fringe Layout 4,"Transport, Warehousing, Hardware",86656,355914,21370,1,9130,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Mallarabanawadi Main Road 4,"Agriculture, Grocery, Pharmacy",64028,440182,24528,9,9929,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Koralur Extension 5,"Agriculture, Grocery, Nurseries",84484,232781,43276,3,4421,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Chokkasandra (Hoskote) Stage 5,"Agriculture, Grocery, Pharmacy",52154,473105,65100,5,3596,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Thimmasandra (Hoskote) Phase 5,"Agriculture, Grocery, Nurseries",102870,178059,59333,9,1913,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthkur Block 5,"Agriculture, Grocery, Pharmacy",22336,360858,23179,6,6356,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hoskote Town Cross 5,"Transport, Warehousing, Restaurants",87779,209420,63781,9,9743,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Nandagudi Market 5,"Agriculture, Nurseries, Grocery",39029,44596,70267,8,2413,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Narasapura Industrial Area 5,"Industrial, Machinery, Hardware",79201,446390,31843,8,9806,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Malur Road Belt Layout 5,"Transport, Warehousing, Restaurants",52265,346250,38952,1,1331,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Anugondanahalli Main Road 5,"Agriculture, Nurseries, Grocery",63872,483183,68798,9,9937,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Sulibele Extension 6,"Agriculture, Grocery, Pharmacy",66197,79182,48160,6,5931,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthasandra Stage 6,"Agriculture, Grocery, Nurseries",75180,369307,59898,9,3099,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Konduru Phase 6,"Agriculture, Grocery, Pharmacy",43710,321454,65939,3,3540,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hattaruru Block 6,"Agriculture, Grocery, Nurseries",49486,338232,44516,3,4156,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Kurubarahalli (Hoskote) Cross 6,"Agriculture, Grocery, Pharmacy",91907,148803,71526,6,405,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Avalahalli (Hoskote) Market 6,"Real Estate, Grocery, Restaurants",91895,159978,25449,9,1789,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Jadigenahalli Industrial Area 6,"Agriculture, Grocery, Pharmacy",84435,319058,65290,7,9809,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Doddaballapur Road Belt Layout 6,"Transport, Warehousing, Restaurants",60631,392494,76152,3,4017,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Begur (Hoskote) Main Road 6,"Agriculture, Grocery, Pharmacy",40103,65379,36125,3,7180,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Attibele Road Fringe Extension 7,"Transport, Warehousing, Hardware",84772,491828,22418,2,8711,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Mallarabanawadi Stage 7,"Agriculture, Grocery, Pharmacy",34382,265900,37746,9,3036,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Koralur Phase 7,"Agriculture, Grocery, Nurseries",104291,278517,17454,3,3962,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Chokkasandra (Hoskote) Block 7,"Agriculture, Grocery, Pharmacy",23756,450866,73810,5,9742,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Thimmasandra (Hoskote) Cross 7,"Agriculture, Grocery, Nurseries",40609,460097,67826,9,5749,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthkur Market 7,"Agriculture, Grocery, Pharmacy",36478,328557,32761,8,3361,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hoskote Town Industrial Area 7,"Transport, Warehousing, Restaurants",59666,157084,30223,2,9456,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Nandagudi Layout 7,"Agriculture, Nurseries, Grocery",95683,201187,21701,3,1919,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Narasapura Main Road 7,"Industrial, Machinery, Hardware",119097,289295,17597,2,1442,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Malur Road Belt Extension 8,"Transport, Warehousing, Restaurants",91315,77716,15141,8,5660,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Anugondanahalli Stage 8,"Agriculture, Nurseries, Grocery",97834,375891,17659,6,2326,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Sulibele Phase 8,"Agriculture, Grocery, Pharmacy",34153,243725,35980,6,1179,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthasandra Block 8,"Agriculture, Grocery, Nurseries",96325,187450,24031,9,4306,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Konduru Cross 8,"Agriculture, Grocery, Pharmacy",32999,193724,30037,8,6380,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hattaruru Market 8,"Agriculture, Grocery, Nurseries",75318,223502,75962,4,7335,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Kurubarahalli (Hoskote) Industrial Area 8,"Agriculture, Grocery, Pharmacy",20814,164539,61738,4,913,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Avalahalli (Hoskote) Layout 8,"Real Estate, Grocery, Restaurants",96077,444226,53429,9,5189,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Jadigenahalli Main Road 8,"Agriculture, Grocery, Pharmacy",110474,141999,21142,1,2131,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Doddaballapur Road Belt Extension 9,"Transport, Warehousing, Restaurants",22443,134793,27109,2,8614,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Begur (Hoskote) Stage 9,"Agriculture, Grocery, Pharmacy",95993,467907,37010,2,9195,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Attibele Road Fringe Phase 9,"Transport, Warehousing, Hardware",95916,477373,23787,6,9833,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Mallarabanawadi Block 9,"Agriculture, Grocery, Pharmacy",93319,390321,57864,4,6011,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Koralur Cross 9,"Agriculture, Grocery, Nurseries",37368,32289,23472,3,2753,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Chokkasandra (Hoskote) Market 9,"Agriculture, Grocery, Pharmacy",35328,196048,64575,3,3440,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Thimmasandra (Hoskote) Industrial Area 9,"Agriculture, Grocery, Nurseries",76942,194668,38383,3,7976,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthkur Layout 9,"Agriculture, Grocery, Pharmacy",111751,436387,76709,6,1241,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hoskote Town Main Road 9,"Transport, Warehousing, Restaurants",119131,251513,19249,8,9141,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Nandagudi Extension 10,"Agriculture, Nurseries, Grocery",47306,277368,62717,7,8658,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Narasapura Stage 10,"Industrial, Machinery, Hardware",105451,106365,49518,4,2997,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Malur Road Belt Phase 10,"Transport, Warehousing, Restaurants",59915,250662,68909,4,9381,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Anugondanahalli Block 10,"Agriculture, Nurseries, Grocery",57219,396158,33351,2,4141,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Sulibele Cross 10,"Agriculture, Grocery, Pharmacy",100879,195211,19088,1,2138,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Muthasandra Market 10,"Agriculture, Grocery, Nurseries",84644,199785,68330,9,4370,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Konduru Industrial Area 10,"Agriculture, Grocery, Pharmacy",80279,442950,71941,2,4783,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Hattaruru Layout 10,"Agriculture, Grocery, Nurseries",73028,92588,30282,8,594,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Hoskote,Kurubarahalli (Hoskote) Main Road 10,"Agriculture, Grocery, Pharmacy",20126,83646,34330,9,7216,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Nelamangala Town,"Transport, Warehousing, Restaurants",72329,285798,57409,4,1884,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arsikere,"Agriculture, Grocery, Pharmacy",47632,300887,36778,8,3610,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Madanayakanahalli,"Industrial, Hardware, Transport",85310,330512,39264,9,3886,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Thyamagondlu,"Transport, Warehousing, Restaurants",75176,241097,74675,5,5366,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Adakamaranahalli,"Industrial, Hardware, Grocery",106066,225244,20075,7,9290,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tavarekere,"Agriculture, Nurseries, Grocery",64327,419657,25412,4,5528,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Seegehalli,"Agriculture, Grocery, Pharmacy",88904,139735,63454,1,6781,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Manjunath Nagar (Nelamangala),"Grocery, Pharmacy, Cafe",23797,175683,43365,3,6993,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Basavanahalli,"Agriculture, Grocery, Pharmacy",67882,402035,22230,5,9743,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Binnamangala,"Industrial, Hardware, Grocery",33718,127971,63200,3,4758,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dasanapura,"Industrial, Warehousing, Hardware",54560,32149,26002,7,7182,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Bairegowdanahalli,"Agriculture, Grocery, Pharmacy",96589,382246,28947,9,6969,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arashinakunte,"Industrial, Hardware, Transport",42116,341333,28686,6,7707,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dubasipalya,"Agriculture, Grocery, Pharmacy",56244,258976,44304,1,7769,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Chandapura (Nelamangala),"Agriculture, Grocery, Nurseries",21645,434891,65683,7,6319,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Gonighattapura,"Agriculture, Grocery, Pharmacy",67523,353175,28074,3,4634,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Hasurahalli,"Agriculture, Grocery, Pharmacy",39256,62668,67142,5,6079,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Ittamadu (Nelamangala),"Agriculture, Grocery, Nurseries",73173,426889,71307,4,8990,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Kerekodi,"Agriculture, Grocery, Pharmacy",57430,489882,19493,5,1412,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tubagere (Nelamangala),"Agriculture, Grocery, Nurseries",59282,108204,73487,5,3062,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Nelamangala Town Extension 1,"Transport, Warehousing, Restaurants",83374,231830,65085,6,3038,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arsikere Stage 1,"Agriculture, Grocery, Pharmacy",88244,216501,49228,6,3297,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Madanayakanahalli Phase 1,"Industrial, Hardware, Transport",31694,436885,29140,8,5396,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Thyamagondlu Block 1,"Transport, Warehousing, Restaurants",76264,185140,66875,8,7304,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Adakamaranahalli Cross 1,"Industrial, Hardware, Grocery",95060,239861,46655,9,5830,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tavarekere Market 1,"Agriculture, Nurseries, Grocery",117416,160507,58472,8,226,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Seegehalli Industrial Area 1,"Agriculture, Grocery, Pharmacy",77545,245160,64437,2,5702,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Manjunath Nagar (Nelamangala) Layout 1,"Grocery, Pharmacy, Cafe",59224,203321,64416,1,1291,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Basavanahalli Main Road 1,"Agriculture, Grocery, Pharmacy",117945,57384,74711,2,2739,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Binnamangala Extension 2,"Industrial, Hardware, Grocery",33224,101929,21816,2,1466,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dasanapura Stage 2,"Industrial, Warehousing, Hardware",60738,410103,26639,3,9311,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Bairegowdanahalli Phase 2,"Agriculture, Grocery, Pharmacy",45150,96153,79307,7,6553,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arashinakunte Block 2,"Industrial, Hardware, Transport",83731,255128,62192,2,6771,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dubasipalya Cross 2,"Agriculture, Grocery, Pharmacy",69688,95388,61733,1,6783,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Chandapura (Nelamangala) Market 2,"Agriculture, Grocery, Nurseries",119929,51401,77666,6,4639,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Gonighattapura Industrial Area 2,"Agriculture, Grocery, Pharmacy",93509,222903,44492,9,8976,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Hasurahalli Layout 2,"Agriculture, Grocery, Pharmacy",28577,139503,65914,3,2987,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Ittamadu (Nelamangala) Main Road 2,"Agriculture, Grocery, Nurseries",28070,252601,26240,6,9754,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Kerekodi Extension 3,"Agriculture, Grocery, Pharmacy",28666,147834,47698,3,4186,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tubagere (Nelamangala) Stage 3,"Agriculture, Grocery, Nurseries",77761,54084,41957,1,2361,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Nelamangala Town Phase 3,"Transport, Warehousing, Restaurants",56368,271459,74613,5,4280,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arsikere Block 3,"Agriculture, Grocery, Pharmacy",26783,130641,47808,4,2941,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Madanayakanahalli Cross 3,"Industrial, Hardware, Transport",61914,125111,20827,7,6140,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Thyamagondlu Market 3,"Transport, Warehousing, Restaurants",90507,469042,47762,6,3660,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Adakamaranahalli Industrial Area 3,"Industrial, Hardware, Grocery",99026,449667,23259,7,4858,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tavarekere Layout 3,"Agriculture, Nurseries, Grocery",87526,158299,65139,5,726,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Seegehalli Main Road 3,"Agriculture, Grocery, Pharmacy",90835,182982,78239,4,5114,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Manjunath Nagar (Nelamangala) Extension 4,"Grocery, Pharmacy, Cafe",65765,318185,29849,7,1475,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Basavanahalli Stage 4,"Agriculture, Grocery, Pharmacy",39956,371064,31232,7,1281,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Binnamangala Phase 4,"Industrial, Hardware, Grocery",107895,347825,55572,6,5808,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dasanapura Block 4,"Industrial, Warehousing, Hardware",66240,254386,39173,8,590,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Bairegowdanahalli Cross 4,"Agriculture, Grocery, Pharmacy",57148,363715,69869,4,3829,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arashinakunte Market 4,"Industrial, Hardware, Transport",114270,216553,76352,5,6074,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dubasipalya Industrial Area 4,"Agriculture, Grocery, Pharmacy",24757,481792,78095,4,3634,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Chandapura (Nelamangala) Layout 4,"Agriculture, Grocery, Nurseries",39097,280337,67350,1,3396,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Gonighattapura Main Road 4,"Agriculture, Grocery, Pharmacy",30395,147556,20374,8,2040,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Hasurahalli Extension 5,"Agriculture, Grocery, Pharmacy",36241,215246,36174,1,5114,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Ittamadu (Nelamangala) Stage 5,"Agriculture, Grocery, Nurseries",47696,46160,38567,5,1982,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Kerekodi Phase 5,"Agriculture, Grocery, Pharmacy",90480,266242,50292,6,5008,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tubagere (Nelamangala) Block 5,"Agriculture, Grocery, Nurseries",66163,37633,24277,6,3087,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Nelamangala Town Cross 5,"Transport, Warehousing, Restaurants",39816,299158,46600,5,5685,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arsikere Market 5,"Agriculture, Grocery, Pharmacy",69840,362676,66631,3,3259,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Madanayakanahalli Industrial Area 5,"Industrial, Hardware, Transport",72853,69104,24885,5,4630,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Thyamagondlu Layout 5,"Transport, Warehousing, Restaurants",44917,454837,74659,8,781,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Adakamaranahalli Main Road 5,"Industrial, Hardware, Grocery",116731,359375,69306,2,5354,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tavarekere Extension 6,"Agriculture, Nurseries, Grocery",41566,88388,15778,6,1173,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Seegehalli Stage 6,"Agriculture, Grocery, Pharmacy",95452,36014,44165,9,2487,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Manjunath Nagar (Nelamangala) Phase 6,"Grocery, Pharmacy, Cafe",82823,112578,73929,8,2793,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Basavanahalli Block 6,"Agriculture, Grocery, Pharmacy",40806,184827,16492,8,9662,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Binnamangala Cross 6,"Industrial, Hardware, Grocery",95520,60390,45462,8,4440,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dasanapura Market 6,"Industrial, Warehousing, Hardware",21759,305855,64812,7,2256,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Bairegowdanahalli Industrial Area 6,"Agriculture, Grocery, Pharmacy",61949,111658,65500,8,8066,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arashinakunte Layout 6,"Industrial, Hardware, Transport",112374,77993,28615,6,2680,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dubasipalya Main Road 6,"Agriculture, Grocery, Pharmacy",22482,225768,73643,2,7357,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Chandapura (Nelamangala) Extension 7,"Agriculture, Grocery, Nurseries",44442,178285,59900,2,2259,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Gonighattapura Stage 7,"Agriculture, Grocery, Pharmacy",53719,266860,57946,8,6872,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Hasurahalli Phase 7,"Agriculture, Grocery, Pharmacy",78066,471000,22851,1,1727,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Ittamadu (Nelamangala) Block 7,"Agriculture, Grocery, Nurseries",113501,289565,31288,6,8319,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Kerekodi Cross 7,"Agriculture, Grocery, Pharmacy",22079,238008,22156,6,7180,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tubagere (Nelamangala) Market 7,"Agriculture, Grocery, Nurseries",22717,37727,17044,4,2085,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Nelamangala Town Industrial Area 7,"Transport, Warehousing, Restaurants",79676,394562,22368,3,9813,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arsikere Layout 7,"Agriculture, Grocery, Pharmacy",47952,24358,34900,3,8588,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Madanayakanahalli Main Road 7,"Industrial, Hardware, Transport",106444,347252,45600,1,2281,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Thyamagondlu Extension 8,"Transport, Warehousing, Restaurants",62460,277681,61403,3,2396,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Adakamaranahalli Stage 8,"Industrial, Hardware, Grocery",110397,114018,40634,4,7264,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tavarekere Phase 8,"Agriculture, Nurseries, Grocery",92847,406601,24168,5,2697,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Seegehalli Block 8,"Agriculture, Grocery, Pharmacy",113607,445333,35961,3,1001,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Manjunath Nagar (Nelamangala) Cross 8,"Grocery, Pharmacy, Cafe",109106,314054,64879,6,6160,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Basavanahalli Market 8,"Agriculture, Grocery, Pharmacy",38449,146888,74871,5,9390,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Binnamangala Industrial Area 8,"Industrial, Hardware, Grocery",53536,249104,59096,3,1777,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dasanapura Layout 8,"Industrial, Warehousing, Hardware",84077,337898,61087,6,2981,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Bairegowdanahalli Main Road 8,"Agriculture, Grocery, Pharmacy",58258,213510,38852,6,5722,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arashinakunte Extension 9,"Industrial, Hardware, Transport",68302,129847,48110,8,8152,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Dubasipalya Stage 9,"Agriculture, Grocery, Pharmacy",48865,442587,47174,2,1478,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Chandapura (Nelamangala) Phase 9,"Agriculture, Grocery, Nurseries",26645,464717,49215,1,1348,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Gonighattapura Block 9,"Agriculture, Grocery, Pharmacy",58000,474162,41955,4,5750,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Hasurahalli Cross 9,"Agriculture, Grocery, Pharmacy",46737,320611,21581,7,6179,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Ittamadu (Nelamangala) Market 9,"Agriculture, Grocery, Nurseries",31485,430841,59619,3,9556,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Kerekodi Industrial Area 9,"Agriculture, Grocery, Pharmacy",58565,316037,21317,3,7136,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tubagere (Nelamangala) Layout 9,"Agriculture, Grocery, Nurseries",45522,96329,79046,5,6587,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Nelamangala Town Main Road 9,"Transport, Warehousing, Restaurants",85155,51007,64678,5,1158,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Arsikere Extension 10,"Agriculture, Grocery, Pharmacy",75168,190604,57856,3,2148,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Madanayakanahalli Stage 10,"Industrial, Hardware, Transport",72487,336397,60714,9,6215,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Thyamagondlu Phase 10,"Transport, Warehousing, Restaurants",32342,32323,41649,4,4348,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Adakamaranahalli Block 10,"Industrial, Hardware, Grocery",60806,393479,77259,3,2576,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Tavarekere Cross 10,"Agriculture, Nurseries, Grocery",68770,132356,38132,2,4703,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Seegehalli Market 10,"Agriculture, Grocery, Pharmacy",98623,130944,31789,9,3653,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Manjunath Nagar (Nelamangala) Industrial Area 10,"Grocery, Pharmacy, Cafe",119785,224451,29567,4,320,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Basavanahalli Layout 10,"Agriculture, Grocery, Pharmacy",95629,427426,29868,3,4918,,No,12627,3603 (28.5%),25-44
+Bangalore Rural,Nelamangala,Binnamangala Main Road 10,"Industrial, Hardware, Grocery",72603,298600,39370,7,7292,,No,12627,3603 (28.5%),25-44
