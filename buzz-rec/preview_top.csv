@@ -1,0 +1,6 @@
+District,Taluk,Area,DemandProducts,Cost_of_Living,Population,Avg_Income,Competition_Index,Footfall_Potential,AvgRent2BHK,MetroAccess,CrimeReportedCitywide,CrimeDetectedCitywide,AgeGroup,predicted_success_ratio
+Bangalore Urban,Bangalore East,Indiranagar Main Road 9,"Cafe, Pub, Clothing Store, Bakery",23987,465609,76622,3,9378,29000.0,Yes,12627,3603 (28.5%),25-44,0.9421915426011764
+Bangalore Urban,Bangalore West,Rajarajeshwari Nagar Industrial Area 7,"Cafe, Supermarket, Pharmacy, Electronics",97575,496072,79027,4,8821,,No,12627,3603 (28.5%),25-44,0.8691955913081042
+Bangalore Urban,Bangalore North,RT Nagar Industrial Area 5,"Grocery, Kitchenware, Pharmacy, Clothing Store",86557,43236,57891,3,9902,,No,12627,3603 (28.5%),25-44,0.8614310151111948
+Bangalore Rural,Doddaballapur,Ajjanahalli Extension 7,"Agriculture, Grocery, Pharmacy",22219,121376,75413,1,9416,,No,12627,3603 (28.5%),25-44,0.8541175583666569
+Bangalore Rural,Doddaballapur,Gulur Layout 8,"Agriculture, Grocery, Pharmacy",116573,473792,67142,1,9856,,No,12627,3603 (28.5%),25-44,0.8528171828025138
